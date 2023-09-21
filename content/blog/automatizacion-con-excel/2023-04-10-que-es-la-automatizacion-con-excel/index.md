@@ -16,7 +16,7 @@ layout: excel1
 
 Si estás leyendo esto, es porque estás interesado o interesada en mejorar tu productividad y sacar el máximo provecho de Excel.
 
-En este artículo te explicaré todo lo que necesitas saber sobre la [automatización con Excel](https://raymundoycaza.com/automatizacion-con-excel/) y cómo puede ayudarte a ahorrar tiempo y esfuerzo en tus tareas diarias.
+En este artículo te explicaré todo lo que necesitas saber sobre la [automatización con Excel](../) y cómo puede ayudarte a ahorrar tiempo y esfuerzo en tus tareas diarias.
 
 Si eres nuevo en el mundo de la automatización y no sabes por dónde empezar, ¡no te preocupes!
 
@@ -44,6 +44,7 @@ La automatización con Excel es una herramienta valiosa para mejorar la producti
 
 [Excel es un programa que ayuda a organizar información](https://www.youtube.com/watch?v=phy-h61Xnlg) y presentarla en forma de tabla y gráficos.
 
+{{<youtube phy-h61Xnlg>}}
 Su principal función es hacer cálculos y, por supuesto, **ahorrar tiempo al automatizar procesos repetitivos**.
 
 Por esta razón, a este tipo de herramientas se les denomina "Hojas de Cálculo".
@@ -94,13 +95,15 @@ Estas herramientas que vienen incluidas en Excel, te ayudarán a ser más eficie
 
 ![Funciones de búsqueda](images/RYIMG-20230406190537.png)
 
-[Las funciones](https://raymundoycaza.com/funciones-en-excel/9455/) y fórmulas son herramientas poderosas en Excel que pueden ayudarte a automatizar tareas repetitivas y ahorrarte tiempo.
+[Las funciones](/blog/automatizacion-con-excel/funciones-en-excel/) y fórmulas son herramientas poderosas en Excel que pueden ayudarte a automatizar tareas repetitivas y ahorrarte tiempo.
 
-Pero no confundas estos términos: [fórmulas y funciones no son lo mismo](https://raymundoycaza.com/formula-de-excel-y-funcion-de-excel/6463/) (no exactamente).
+Pero no confundas estos términos: [fórmulas y funciones no son lo mismo](/blog/automatizacion-con-excel/formula-de-excel/) (no exactamente).
 
-Algunas funciones comunes son SUMA, [PROMEDIO](https://raymundoycaza.com/funcion-promedio-en-excel/2804/) y CONTAR, que te permiten realizar cálculos rápidos y precisos en grandes conjuntos de datos.
+Algunas funciones comunes son SUMA, [PROMEDIO](/blog/automatizacion-con-excel/funcion-promedio-en-excel/) y CONTAR, que te permiten realizar cálculos rápidos y precisos en grandes conjuntos de datos.
 
-\=SUMA(A1,A2)
+{{<highlight vb>}}
+=SUMA(A1,A2)
+{{</highlight>}}
 
 Un ejemplo sencillo de la función SUMA sería, por decir algo:
 
@@ -108,7 +111,9 @@ Esto sumaría el valor que tienes en las celdas A1 y A2
 
 Y también podrías tener este ejemplo, igual de sencillo, pero mucho más útil:
 
-\=SUMA(A1:A25000)
+{{<highlight vb>}}
+=SUMA(A1:A25000)
+{{</highlight>}}
 
 Esto sumaría el valor que tienes en 25,000 celdas: desde la A1 hasta la A25000. ¡Así de fácil!
 
@@ -118,11 +123,14 @@ Las fórmulas, por otro lado, pueden ser más complejas y personalizables.
 
 Si bien es cierto, encontrarás fórmulas tan sencillas como:
 
-\=A1 + A2
+{{<highlight vb>}}
+=A1 + A2
+{{</highlight>}}
 
 También podrías encontrarte fórmulas que no son tan sencillas, como sería el caso de:
 
-\=SUMA(
+{{<highlight vb>}}
+=SUMA(
     SI(
         ESNUMERO(
             A1:A10
@@ -143,6 +151,7 @@ También podrías encontrarte fórmulas que no son tan sencillas, como sería el
         )
     )
 )  
+{{</highlight>}}
 
 Tú no te preocupes.
 
@@ -162,65 +171,67 @@ Verás que con un poco de conocimiento de Excel, podrás simplificar muchos proc
 
 ##### Lo más básico para comprender las fórmulas y funciones
 
-[¿Qué es una fórmula en Excel?](https://raymundoycaza.com/que-es-una-formula-en-excel/2779/)
+[¿Qué es una fórmula en Excel?](/blog/automatizacion-con-excel/que-es-una-formula-en-excel/)
 
-[7 elementos básicos de una fórmula, que tú debes conocer](https://raymundoycaza.com/7-elementos-basicos-de-una-formula-de-excel/5830/)
+[7 elementos básicos de una fórmula, que tú debes conocer](/blog/automatizacion-con-excel/elementos-basicos-de-una-formula/)
 
-[7 Principios básicos para trabajar con fórmulas en Excel](https://raymundoycaza.com/formulas-en-excel-7-principios/4515/)
+[7 Principios básicos para trabajar con fórmulas en Excel](/blog/automatizacion-con-excel/formulas-en-excel/)
 
-[¿Qué son las funciones?](https://raymundoycaza.com/funciones-en-excel/9455/)
+[¿Qué son las funciones?](/blog/automatizacion-con-excel/funciones-en-excel/)
 
-[¿ Qué son los argumentos en Excel ?](https://raymundoycaza.com/que-son-los-argumentos-en-excel/2851/)
+[¿ Qué son los argumentos en Excel ?](/blog/automatizacion-con-excel/argumentos-en-excel/)
 
 ##### Funciones de Excel explicadas (y con algún ejemplo)
 
-[Las Funciones de Búsqueda en Excel: BUSCARV, INDICE y COINCIDIR](https://raymundoycaza.com/las-funciones-de-busqueda-en-excel-buscarv-indice-y-coincidir/6486/)
+[Las Funciones de Búsqueda en Excel: BUSCARV, INDICE y COINCIDIR](/blog/automatizacion-con-excel/funciones-de-busqueda-en-excel)
 
-[La función NUM.DE.SEMANA](https://raymundoycaza.com/la-funcion-num-de-semana/6280/)
+[La función NUM.DE.SEMANA](/blog/automatizacion-con-excel/funcion-num.de.semana/)
 
-[La Función TRANSPONER](https://raymundoycaza.com/la-funcion-transponer/6055/)
+[La Función TRANSPONER](/blog/automatizacion-con-excel/funcion-transponer/)
 
-[La función DERECHA](https://raymundoycaza.com/la-funcion-derecha/5997/)
+[La función DERECHA](/blog/automatizacion-con-excel/funcion-derecha/)
 
-[La función CAR](https://raymundoycaza.com/la-funcion-car/5863/)
+[La función CAR](/blog/automatizacion-con-excel/funcion-car/)
 
-[La función CONCATENAR](https://raymundoycaza.com/la-funcion-concatenar/5748/)
+[La función CONCATENAR](/blog/automatizacion-con-excel/funcion-concatenar/)
 
-[La función MED () en Excel ¿Cómo se usa?](https://raymundoycaza.com/la-funcion-med/5518/)
+[La función MED () en Excel ¿Cómo se usa?](/blog/automatizacion-con-excel/la-funcion-med/)
 
-[La función REPETIR](https://raymundoycaza.com/la-funcion-repetir/6259/)
+[La función REPETIR](/blog/automatizacion-con-excel/la-funcion-repetir/)
 
-[La función REPETIR en Excel: ¿Cómo usarla?](https://raymundoycaza.com/la-funcion-repetir-en-excel/2836/)
+[La función REPETIR en Excel: ¿Cómo usarla?](/blog/automatizacion-con-excel/funcion-repetir/)
 
-[La función COINCIDIR – Diccionario de Funciones](https://raymundoycaza.com/la-funcion-coincidir/6188/)
+[La función COINCIDIR – Diccionario de Funciones](/blog/automatizacion-con-excel/funcion-coincidir/)
 
-[Entendiendo la función DESREF](https://raymundoycaza.com/la-funcion-desref/1883/)
+[Entendiendo la función DESREF](/blog/automatizacion-con-excel/funcion-desref/)
 
-[Función COCIENTE](https://raymundoycaza.com/funcion-cociente/4213/)
+[Función COCIENTE](/blog/automatizacion-con-excel/funcion-cociente/)
 
-[Función HALLAR](https://raymundoycaza.com/funcion-hallar/4186/)
+[Función HALLAR](/blog/automatizacion-con-excel/funcion-hallar/)
 
-[La función MINUSC](https://raymundoycaza.com/la-funcion-minusc/4083/)
+[La función MINUSC](/blog/automatizacion-con-excel/funcion-minusc/)
 
-[La función NOMPROPIO en Excel](https://raymundoycaza.com/la-funcion-nompropio-en-excel/4016/)
+[La función NOMPROPIO en Excel](/blog/automatizacion-con-excel/funcion-nompropio/)
 
-[La Función MAYUSC en Excel](https://raymundoycaza.com/la-funcion-mayusc/3888/)
+[La Función MAYUSC en Excel](/blog/automatizacion-con-excel/funcion-mayusc/)
 
-[La función RESIDUO en Excel](https://raymundoycaza.com/funcion-residuo/3003/)
+[La función RESIDUO en Excel](/blog/automatizacion-con-excel/funcion-residuo)
 
-[La función HOY en Excel: obtener la fecha actual](https://raymundoycaza.com/la-funcion-hoy/2844/)
+[La función HOY en Excel: obtener la fecha actual](/blog/automatizacion-con-excel/funcion-hoy/)
 
-[La función ESPACIOS: eliminar espacios en Excel](https://raymundoycaza.com/eliminar-espacios-en-excel/2690/)
+[La función ESPACIOS: eliminar espacios en Excel](#)
 
-[La función CARACTER en Excel ¿Qué hace y para qué sirve?](https://raymundoycaza.com/la-funcion-caracter-en-excel/2667/)
+[La función CARACTER en Excel ¿Qué hace y para qué sirve?](/blog/automatizacion-con-excel/funcion-caracter-en-excel/)
 
-[La función SUMAR.SI](https://raymundoycaza.com/la-funcion-sumar-si/5785/)
+[La función SUMAR.SI](/blog/automatizacion-con-excel/funcion-sumar.si/)
 
-[Función SI: ¿Para qué sirve y cómo funciona?](https://raymundoycaza.com/funcion-si/1806/)
+[Función SI: ¿Para qué sirve y cómo funciona?](/blog/automatizacion-con-excel/sumar.si/)
 
-[Explicando la función SI anidada](https://raymundoycaza.com/funcion-si-anidada/2529/)
+[Función SI anidada: Condiciones más complejas](/blog/automatizacion-con-excel/ejemplo-funcion-si-anidada/)
 
-##### Implementando lo aprendido: Cómo resolver ciertas situaciones utilizando fórmulas y funciones en Excel
+
+##### Implementando lo aprendido: 
+> Cómo resolver ciertas situaciones utilizando fórmulas y funciones en Excel
 
 Ahora te mostraré cómo aplicar lo aprendido en casos más concretos, para que puedas aprovechar al máximo tus habilidades en esta herramienta y mejorar tu productividad.
 
@@ -228,32 +239,32 @@ Te mostraré ejemplos concretos para que puedas poner en práctica el uso de fó
 
 ¡Acompáñame en este viaje de aprendizaje y descubre cómo Excel puede hacerte la vida más fácil!
 
-[Aprende cómo realizar una Autosuma con Varios Rangos y Multiselección](https://raymundoycaza.com/autosuma-con-varios-rangos/6674/)
+[Aprende cómo realizar una Autosuma con Varios Rangos y Multiselección](/blog/automatizacion-con-excel/autosuma-con-varios-rangos/)
 
-[Descubre cómo forzar la escritura en mayúsculas, usando fórmulas](https://raymundoycaza.com/como-forzar-la-escritura-en-mayusculas-usando-formulas/6017/)
+[Descubre cómo forzar la escritura en mayúsculas, usando fórmulas](/blog/automatizacion-con-excel/forzar-mayusculas-con-formulas/)
 
-[Crea tu propio generador de contraseñas en Excel, utilizando funciones nativas](https://raymundoycaza.com/como-crear-un-generador-de-contrasenas-en-excel-utilizando-funciones-nativas/6588/)
+[Crea tu propio generador de contraseñas en Excel, utilizando funciones nativas](/blog/automatizacion-con-excel/generador-de-contraseñas-en-excel/)
 
-[Cómo generar números aleatorios con decimales y dentro de un intervalo, en Excel](https://raymundoycaza.com/como-generar-numeros-aleatorios-con-decimales/6299/)
+[Cómo generar números aleatorios con decimales y dentro de un intervalo, en Excel](/blog/automatizacion-con-excel/generar-numeros-aleatorios-decimales/)
 
-[Haz uso de las fórmulas para convertir números Decimales a Horas y Minutos en Excel](https://raymundoycaza.com/como-convertir-decimales-a-horas-y-minutos-en-excel/6186/)
+[Haz uso de las fórmulas para convertir números Decimales a Horas y Minutos en Excel](/blog/automatizacion-con-excel/convertir-decimales-a-horas-y-minutos/)
 
-[Conoce cómo puedes rellenar un texto o cómo forzar una longitud fija en Excel](https://raymundoycaza.com/como-rellenar-un-texto-o-como-forzar-una-longitud-fija-en-excel-video/6261/)
+[Conoce cómo puedes rellenar un texto o cómo forzar una longitud fija en Excel](/blog/automatizacion-con-excel/la-funcion-repetir/)
 
-[Explorando la función SI anidada: Ejemplo de uso en la vida real](https://raymundoycaza.com/la-funcion-si-anidada-ejemplo-de-uso-en-la-vida-real/5770/)
+[Explorando la función SI anidada: Ejemplo de uso en la vida real](/blog/automatizacion-con-excel/explicando-funcion-si-anidada/)
 
-[Cómo generar datos aleatorios (y que sumen exactamente 100%)](https://raymundoycaza.com/como-generar-datos-aleatorios-y-que-sumen-exactamente-100/6163/)
+[Cómo generar datos aleatorios (y que sumen exactamente 100%)](/blog/automatizacion-con-excel/generar-datos-aleatorios/)
 
-[Cómo concatenar un rango sin usar macros (video)](https://raymundoycaza.com/concatenar-un-rango-sin-usar-macros-video/6079/)
+[Cómo concatenar un rango sin usar macros (video)](/blog/automatizacion-con-excel/concatenar-un-rango-sin-usar-macros/)
 
-[Calcular el IVA incluido y el porcentaje de una cantidad](https://raymundoycaza.com/calcular-el-iva-incluido-y-el-porcentaje-de-una-cantidad/5853/)
+[Calcular el IVA incluido y el porcentaje de una cantidad](/blog/automatizacion-con-excel/calcular-el-iva-incluido/)
 
-[¿Cómo calcular el tercio de un rango de fechas?](https://raymundoycaza.com/como-calcular-el-tercio-de-un-rango-de-fechas/5907/)
+[¿Cómo calcular el tercio de un rango de fechas?](/blog/automatizacion-con-excel/tercio-de-un-rango-de-fechas/)
 
-[Cómo auto-numerar registros en Excel](https://raymundoycaza.com/como-auto-numerar-registros-en-excel/1459/)
+[Cómo auto-numerar registros en Excel](/blog/automatizacion-con-excel/auto-numerar-registros-en-excel)
 
-[Extraer el año, mes o día de una fecha en Excel](https://raymundoycaza.com/extraer-el-ano-mes-o-dia-de-una-fecha-en-excel/4486/)
+[Extraer el año, mes o día de una fecha en Excel](/blog/automatizacion-con-excel/fecha-en-excel/)
 
-[Sumar Fechas en Excel (y restar también)](https://raymundoycaza.com/sumar-fechas-en-excel/2646/)
+[Sumar Fechas en Excel (y restar también)](/blog/automatizacion-con-excel/sumar-fechas-en-excel/)
 
-[Generar datos de prueba en Excel](https://raymundoycaza.com/generar-datos-de-prueba-en-excel/1873/)
+[Generar datos de prueba en Excel](/blog/automatizacion-con-excel/generar-datos-de-prueba-en-excel/)
