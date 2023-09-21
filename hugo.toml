@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/public"
+baseURL = "http://raymundoycaza.netlify.com"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -40,6 +40,7 @@ languageName = "Spanish"
   description = "Automatización que Transforma"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
+  favicon = "/images/favicon.ico"
  
    # Home page config
   [params.home]
@@ -219,7 +220,7 @@ languageName = "Spanish"
     pre = ""
     post = ""
     name = "🛒 Tienda"
-    url = "https://gumroad.com"
+    url = "https://raymundoycaza.gumroad.com/"
     title = "Visita mi tienda en Gumroad"
 
 # Markup related configuration in Hugo
