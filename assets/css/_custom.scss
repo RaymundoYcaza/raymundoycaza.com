@@ -1,3 +1,402 @@
 .logo {
     width: 12rem;
+    max-width: 12rem;
 }
+
+body[theme="dark"] img.logo {
+    content: url(../images/logo-ry-dark.png) !important;
+}
+
+img.logo {
+  content: url(../images/logo-ry.png) !important;
+}
+
+body[theme="dark"] .fa-solid {
+    color: #fff !important;
+}
+
+img.ry-footer-logo {
+  content: url(../images/logo-ry-icon.jpg) !important;
+}
+
+.home .home-profile .home-avatar img {
+  background-color: darkseagreen;
+  border: 6px solid #fff;
+}
+
+#header-mobile .header-container .menu {
+  text-align: right;
+  padding-right: 2rem;
+}
+
+.ry-tagline {
+    color: #fff;
+    font-size: 2rem;
+}
+
+.ry-home-resume {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.ry-pilar-section-desc {
+  clear: both;
+}
+
+.links a {
+    color: #fff;
+}
+
+.home .fa-solid {
+  color: #17a2b8;
+}
+
+.page.home {
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background: #C33764;  /* fallback colour. Make sure this is just one solid colour. */
+    background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("../images/hero-ry.webp");
+    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("../images/hero-ry.webp"); /* The least supported option. */
+    width: 100%;
+    max-width: 100%;
+    min-height: 75vh;
+}
+
+.ry-image-box-wrapper {
+    text-align: left;
+}
+
+@media (min-width: 768px) {
+    .ry-image-box-wrapper {
+        align-items: flex-start;
+        flex-direction: row;
+    }
+}
+
+body.home .wrapper main .container {
+    padding: 0 !important;
+}
+
+.ry-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.ry-col {
+    text-align: center;
+    clear:both;
+    margin-bottom: 4rem;
+}
+
+/* Estilos base para la clase ry-2col */
+.ry-2col {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Estilo para las columnas en una pantalla grande (por ejemplo, 768px o más) */
+@media screen and (min-width: 768px) {
+    .ry-2col {
+        justify-content: space-between;
+        padding: 15px;
+    }
+
+    .ry-2col > * {
+        flex: 0 0 calc(50% - 10px); /* 10px de espacio entre columnas */
+        margin-right: 10px; /* Espacio entre columnas */
+    }
+
+    .ry-2col > :last-child {
+        margin-right: 0; /* Elimina el margen derecho de la última columna */
+    }
+}
+  
+/* Estilo para las columnas en pantallas más pequeñas (menos de 768px) */
+@media screen and (max-width: 767px) {
+    .ry-2col > * {
+        flex: 0 0 100%;
+        margin-right: 0; /* Elimina el margen derecho en pantallas pequeñas */
+    }
+}
+  
+
+
+
+/* Estilos base para la clase ry-3col */
+.ry-3col {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Estilo para las columnas en una pantalla grande (por ejemplo, 768px o más) */
+  @media screen and (min-width: 768px) {
+    .ry-3col {
+      justify-content: space-between;
+      padding: 15px;
+    }
+  
+    .ry-3col > * {
+      flex: 0 0 calc(33.33% - 10px); /* 10px de espacio entre columnas */
+      margin-right: 10px; /* Espacio entre columnas */
+    }
+  
+    .ry-3col > :last-child {
+      margin-right: 0; /* Elimina el margen derecho de la última columna */
+    }
+  }
+  
+  /* Estilo para las columnas en pantallas más pequeñas (menos de 768px) */
+  @media screen and (max-width: 767px) {
+    .ry-3col > * {
+      flex: 0 0 100%;
+      margin-right: 0; /* Elimina el margen derecho en pantallas pequeñas */
+    }
+  }
+
+  
+/* Estilos base para la clase ry-4col */
+.ry-4col {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Estilo para las columnas en una pantalla grande (por ejemplo, 768px o más) */
+  @media screen and (min-width: 768px) {
+    .ry-4col {
+      justify-content: space-between;
+    }
+  
+    .ry-4col > * {
+      flex: 0 0 calc(25% - 10px); /* 10px de espacio entre columnas */
+      margin-right: 10px; /* Espacio entre columnas */
+    }
+  
+    .ry-4col > :last-child {
+      margin-right: 0; /* Elimina el margen derecho de la última columna */
+    }
+  }
+  
+  /* Estilo para las columnas en pantallas más pequeñas (menos de 768px) */
+  @media screen and (max-width: 767px) {
+    .ry-4col > * {
+      flex: 0 0 100%;
+      margin-right: 0; /* Elimina el margen derecho en pantallas pequeñas */
+    }
+  }
+
+/* Clases para botones neutrales */
+.ry-btn-neutral {
+    background-color: #ccc;
+    color: #000;
+  }
+  
+  /* Clases para botones de peligro */
+  .ry-btn-peligro {
+    background-color: #ff0000;
+    color: #fff;
+  }
+  
+  /* Clases para botones de precaución */
+  .ry-btn-precaucion {
+    background-color: #ffc107;
+    color: #000;
+  }
+  
+  /* Clases para botones de éxito */
+  .ry-btn-exito {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  /* Clases para botones de información */
+  .ry-btn-informacion {
+    background-color: #17a2b8;
+    color: #fff;
+  }
+  
+  /* Estilos comunes para todos los botones */
+  .ry-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  /* Estilos de interacción para botones */
+  .ry-btn:hover {
+    opacity: 0.8;
+    color: #ffffff
+  }
+  
+  /* Estilos para botones pequeños */
+  .ry-btn-small {
+    padding: 5px 10px;
+  }
+  
+  /* Estilos para botones grandes */
+  .ry-btn-large {
+    padding: 15px 30px;
+  }
+  
+// #region shortcode columnas
+  .gdoc-columns {
+    
+    margin: 1rem 0;
+  
+    &--regular > :first-child {
+      flex: 1;
+    }
+  
+    &--small > :first-child {
+      flex: 0.35;
+      min-width: 20rem * 0.35;
+    }
+  
+    &--large > :first-child {
+      flex: 1.65;
+      min-width: 20rem * 1.65;
+    }
+  
+    &__content {
+      flex: 1 1;
+      min-width: 20rem * 0.66;
+      padding: 0;
+    }
+  
+    .gdoc-post__anchor {
+      display: none;
+    }
+  }
+  
+// #endregion
+
+// #region shortcode tabs
+
+.gdoc-tabs {
+    margin: 1rem 0;
+  
+    border: 1px solid var(--accent-color);
+    border-radius: 0.15rem;
+  
+    overflow: hidden;
+  
+    display: flex;
+    flex-wrap: wrap;
+  
+    &__label {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      border-bottom: 1px transparent;
+      cursor: pointer;
+    }
+  
+    &__content {
+      order: 999; //Move content blocks to the end
+      width: 100%;
+      border-top: 1px solid var(--accent-color-lite);
+      padding: 0 1rem;
+      display: none;
+    }
+  
+    &__control:checked + &__label {
+      border-bottom: 1.5px solid var(--link-color);
+    }
+    &__control:checked + &__label + &__content {
+      display: block;
+    }
+  
+    .gdoc-page__anchor {
+      display: none;
+    }
+  }
+  
+// #endregion
+
+// #region utils
+.flex {
+  display: flex;
+}
+
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+.flex-25 {
+  flex: 1 1 25%;
+}
+
+.flex-inline {
+  display: inline-flex;
+}
+
+.flex-even {
+  flex: 1 1;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-grid {
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 0.15rem;
+  background: #ccc;
+}
+
+.flex-gap {
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+// #endregion
+
+/* Contenedor del grid */
+.grid-container {
+  display: grid;
+  grid-gap: 20px; /* Espacio entre las tarjetas */
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* Tarjeta de artículo */
+.card {
+  background-color: #ffffff00;
+  border: 1px solid #cccccc;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos adicionales para la tarjeta */
+.card-title h2 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.card-description p {
+  font-size: 1rem;
+  color: #777777;
+}
+
+/* Media query para dispositivos más pequeños */
+@media screen and (max-width: 768px) {
+  .grid-container {
+
+  }
+}
+
+
+
+
+
+
+
+
+
