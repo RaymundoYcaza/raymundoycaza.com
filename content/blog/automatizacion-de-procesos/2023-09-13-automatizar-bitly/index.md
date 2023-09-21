@@ -25,7 +25,7 @@ Si prefieres [la versión en video](https://www.youtube.com/watch?v=gmB1fDl8V6g)
 {{<youtube gmB1fDl8V6g>}}
 
 
-[La automatización](/blog/automatizacion-procesos) es una estrategia que se ha vuelto indispensable para optimizar tareas repetitivas y tediosas.
+[La automatización](/blog/automatizacion-de-procesos) es una estrategia que se ha vuelto indispensable para optimizar tareas repetitivas y tediosas.
 
 Esta técnica no solo ahorra tiempo, sino que también reduce errores, lo que se traduce en una mayor eficiencia, menores costos y más tiempo disponible para enfocarse en lo verdaderamente importante: hacer crecer y mejorar nuestros proyectos.
 
