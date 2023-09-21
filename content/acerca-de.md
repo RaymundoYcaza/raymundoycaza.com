@@ -2,7 +2,7 @@
 title: "Acerca de Raymundo Ycaza"
 ---
 
-![Curso](https://raymundoycaza.com/wp-content/uploads/2023/06/acerca-de-ry.jpg)
+![Curso](../acerca-de-ry.jpg)
 
 ### Sobre Raymundo Ycaza
 
