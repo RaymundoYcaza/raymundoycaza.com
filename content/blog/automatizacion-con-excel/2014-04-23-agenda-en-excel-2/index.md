@@ -9,7 +9,7 @@ images: []
 resources: 
 - name: 'featured-image'
   src: 'images/agenda-en-excel_portada.png'
-slug: agenda-en-excel
+slug: agenda-en-excel-2-de-2
 type: excel
 layout: excel1
 ---

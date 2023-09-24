@@ -40,7 +40,7 @@ La ficha o pestaña «programador» Pone a tu disposición un conjunto de herram
 
 Incluso si solo quieres insertar controles que no utilicen macros, en esta ficha podrás encontrar algunas herramientas para ayudarte en esta tarea.
 
-[Cómo mostrar la ficha Programador](https://raymundoycaza.com/automatizacion-con-excel/macros-en-excel/ficha-programador/)
+[Cómo mostrar la ficha Programador](/blog/automatizacion-con-excel/ficha-programador/)
 
 ## Herramientas de uso cotidiano
 
@@ -52,59 +52,59 @@ Pero también existen muchas herramientas que no sabemos que existen y en realid
 
 En esta sección te mostraré cuáles son estas herramientas y cómo puedes aprovecharlas para acelerar la ejecución de tus tareas.
 
-[Autofiltro en Excel: Cómo filtrar y ordenar datos para agilizar tus procesos de negocio](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/autofiltro-en-excel-agiliza-procesos-negocio/)
+[Autofiltro en Excel: Cómo filtrar y ordenar datos para agilizar tus procesos de negocio](/blog/automatizacion-con-excel/autofiltro-en-excel/)
 
-[Cómo ordenar un listado en Excel, según el mes.](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/ordenar-listado-excel-segun-mes/)
+[Cómo ordenar un listado en Excel, según el mes.](/blog/automatizacion-con-excel/como-ordenar-un-listado-en-excel/)
 
-[Duplicados en Excel: ¿Cómo detectarlos de un vistazo?](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/duplicados-excel-como-detectarlos/)
+[Duplicados en Excel: ¿Cómo detectarlos de un vistazo?](/blog/automatizacion-con-excel/duplicados-en-excel/)
 
-[Cómo filtrar valores únicos](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/como-filtrar-valores-unicos/)
+[Cómo filtrar valores únicos](/blog/automatizacion-con-excel/filtrar-valores-unicos/)
 
-[Buscar un valor en Excel usando formato condicional.](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/buscador-con-formato-condicional/)
+[Buscar un valor en Excel usando formato condicional.](/blog/automatizacion-con-excel/formato-condicional/)
 
-[Cómo eliminar duplicados en Excel en 20 segundos](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/eliminar-duplicados-en-excel/)
+[Cómo eliminar duplicados en Excel en 20 segundos](/blog/automatizacion-con-excel/eliminar-duplicados-en-excel/)
 
-[Cómo Guardar como PDF en Excel 2010](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/guardar-como-pdf-excel-201/)
+[Cómo Guardar como PDF en Excel](/blog/automatizacion-con-excel/guardar-como-pdf/)
 
-[Cómo insertar hipervínculos en Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/como-insertar-hipervinculos-en-excel/)
+[Cómo insertar hipervínculos en Excel](/blog/automatizacion-con-excel/insertar-hipervinculos-en-excel/)
 
-[Cómo crear Nombres de rango en Excel](https://raymundoycaza.com/automatizacion-con-excel/formulas-en-excel/nombres-de-rango-en-excel/)
+[Cómo crear Nombres de rango en Excel](/blog/automatizacion-con-excel/nombres-de-rango-en-excel/)
 
-[Cómo usar la opción texto a columnas](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/usando-la-opcion-texto-en-columna/)
+[Cómo usar la opción texto a columnas](/blog/automatizacion-con-excel/texto-en-columna/)
 
-[Cómo Convertir números almacenados como texto, rápidamente](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/convertir-numeros-almacenados-como-texto-rapidamente/)
+[Cómo Convertir números almacenados como texto, rápidamente](/blog/automatizacion-con-excel/numeros-almacenados-como-texto/)
 
-[Cómo crear una lista desplegable en Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/como-crear-una-lista-desplegable-en-excel/)
+[Cómo crear una lista desplegable en Excel](/blog/automatizacion-con-excel/crear-una-lista-desplegable-en-excel/)
 
-[Cómo proteger una hoja en Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/proteger-una-hoja-en-excel/)
+[Cómo proteger una hoja en Excel](/blog/automatizacion-con-excel/proteger-una-hoja-en-excel/)
 
-[Cómo proteger un rango de celdas, en una hoja de Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/como-proteger-un-rango-de-celdas-en-una-hoja-de-excel/)
+[Cómo proteger un rango de celdas, en una hoja de Excel](/blog/automatizacion-con-excel/proteger-un-rango-de-celdas/)
 
 ## Trucos y consejos para aprovechar al máximo las herramientas de Excel
 
-[Cómo insertar un dato en varias celdas](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/insertar-un-dato-en-varias-celdas/)
+[Cómo insertar un dato en varias celdas](/blog/automatizacion-con-excel/insertar-un-dato-en-varias-celdas/)
 
-[Cómo utilizar funciones matemáticas sin fórmulas](https://raymundoycaza.com/automatizacion-con-excel/formulas-en-excel/como-utilizar-funciones-matematicas-sin-formulas/)
+[Cómo utilizar funciones matemáticas sin fórmulas](/blog/automatizacion-con-excel/operaciones-matematicas/)
 
-[Cómo auto-numerar registros en Excel](https://raymundoycaza.com/automatizacion-con-excel/formulas-en-excel/como-auto-numerar-registros-en-excel/)
+[Cómo auto-numerar registros en Excel](/blog/automatizacion-con-excel/auto-numerar-registros-en-excel/)
 
-[Cómo Mostrar una casilla de verificación, usando texto](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/casilla-de-verificacion-usando-solo-texto/)
+[Cómo Mostrar una casilla de verificación, usando texto](/blog/automatizacion-con-excel/casilla-de-verificacion/)
 
-[Cómo hacer una cuadrícula en Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/como-hacer-una-cuadricula-en-excel/)
+[Cómo hacer una cuadrícula en Excel](/blog/automatizacion-con-excel/como-hacer-una-cuadricula-en-excel/)
 
-[Cómo filtrar las celdas que tienen fórmulas](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/filtrar-las-celdas-que-tienen-formulas/)
+[Cómo filtrar las celdas que tienen fórmulas](/blog/automatizacion-con-excel/filtrar-celdas-con-formulas/)
 
-[Cómo separar un texto en Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/como-separar-un-texto-en-excel/)
+[Cómo separar un texto en Excel](/blog/automatizacion-con-excel/separar-un-texto-en-excel/)
 
-[10 consejos para archivos ‘a prueba de accidentes’](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/10-tips-excel-para-mejorar-tus-archivos/)
+[10 consejos para archivos ‘a prueba de accidentes’](/blog/automatizacion-con-excel/accidentes-en-excel/)
 
-[7 Atajos de Ratón para Excel que deberías conocer](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/7-atajos-de-raton-que-deberias-conocer/)
+[7 Atajos de Ratón para Excel que deberías conocer](/blog/automatizacion-con-excel/atajos-de-raton/)
 
-[Cómo eliminar registros que contengan una palabra determinada](https://raymundoycaza.com/automatizacion-con-excel/analisis-de-datos-en-excel/eliminar-registros-que-tengan-un-valor-determinado/)
+[Cómo eliminar registros que contengan una palabra determinada](/blog/automatizacion-con-excel/eliminar-registros/)
 
-[6 Formas de evitar la creación automática de hipervínculos en Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/formas-de-evitar-la-creacion-automatica-de-hipervinculos-en-excel/)
+[6 Formas de evitar la creación automática de hipervínculos en Excel](/blog/automatizacion-con-excel/creacion-automatica-de-hipervinculos/)
 
-[Cómo crear un generador de contraseñas en Excel](https://raymundoycaza.com/automatizacion-con-excel/formulas-en-excel/como-crear-un-generador-de-contrasenas-en-excel-utilizando-funciones-nativas/)
+[Cómo crear un generador de contraseñas en Excel](/blog/automatizacion-con-excel/generador-de-contrasenas-en-excel/)
 
 ## Cómo crear tus propias herramientas en Excel
 
@@ -116,14 +116,14 @@ Soluciones a medida.
 
 En esta sección iré colocando pequeños experimentos sencillos que hice hace muchos años, así como nuevos ejemplos de lo que podríamos hacer utilizando esta herramienta.
 
-[Crea textos tuiteables en tu web con Excel o la alternativa rápida a Click to Tweet](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/click-to-tweet/)
+[Crea textos tuiteables en tu web con Excel o la alternativa rápida a Click to Tweet](/blog/automatizacion-con-excel/click-to-tweet/)
 
-[Cómo crear un catálogo de imágenes en Excel, sin utilizar macros](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/catalogo-imagenes-excel/)
+[Cómo crear un catálogo de imágenes en Excel, sin utilizar macros](/blog/automatizacion-con-excel/catalogo-de-imagenes-en-excel/)
 
-[Enviando Tweets desde Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/enviando-tweets-desde-excel/)
+[Enviando Tweets desde Excel](/blog/automatizacion-con-excel/tuits-desde-excel/)
 
-[Aprende Haciendo: Agenda en Excel que te recuerda los eventos pendientes \[1/2\]](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/agenda-en-excel-1/)
+[Aprende Haciendo: Agenda en Excel que te recuerda los eventos pendientes \[1/2\]](/blog/automatizacion-con-excel/agenda-en-excel-1-de-2/)
 
-[Aprende Haciendo: Agenda en Excel que te recuerda los eventos pendientes (2 de 2)](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/agenda-en-excel-2/)
+[Aprende Haciendo: Agenda en Excel que te recuerda los eventos pendientes (2 de 2)](/blog/automatizacion-con-excel/agenda-en-excel-2-de-2/)
 
-[Cómo crear una tarjeta de amor y amistad en Excel](https://raymundoycaza.com/automatizacion-con-excel/herramientas-en-excel/dia-del-amor-y-la-amistad/)
+[Cómo crear una tarjeta de amor y amistad en Excel](/blog/automatizacion-con-excel/dia-del-amor-y-la-amistad/)

@@ -1,5 +1,5 @@
 ---
-title: 'Aprende Haciendo: Agenda en Excel que te recuerda los eventos pendientes [1/2]'
+title: 'Aprende Haciendo: Agenda en Excel que te recuerda los eventos pendientes (1 de 2)'
 subtitle: 
 description: 'Crea paso a paso esta Agenda en Excel y aprende Excel de forma práctica y amena.'
 date: 2014-04-09
@@ -9,7 +9,7 @@ images: []
 resources: 
 - name: 'featured-image'
   src: 'images/agenda-en-excel_portada.png'
-slug: agenda-en-excel
+slug: agenda-en-excel-1-de-2
 type: excel
 layout: excel1
 ---

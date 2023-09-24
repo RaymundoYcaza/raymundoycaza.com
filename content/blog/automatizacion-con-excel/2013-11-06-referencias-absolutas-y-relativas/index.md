@@ -9,7 +9,7 @@ images: []
 resources: 
 - name: 'featured-image'
   src: 'images/referencias-absolutas-y-relativas._portada.png'
-slug: referencias-absolutas-y-relativas.
+slug: referencias-absolutas-y-relativas
 type: excel
 layout: excel1
 ---

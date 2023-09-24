@@ -9,7 +9,7 @@ images: []
 resources: 
 - name: 'featured-image'
   src: 'images/generador-de-contraseñas-en-excel_portada.png'
-slug: generador-de-contraseñas-en-excel
+slug: generador-de-contrasenas-en-excel
 type: excel
 layout: excel1
 ---

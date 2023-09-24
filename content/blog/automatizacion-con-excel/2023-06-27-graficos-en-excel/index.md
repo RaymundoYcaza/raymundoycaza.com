@@ -60,7 +60,7 @@ Si ya estás creando tus gráficos y necesitas ir mejorando sobre la marcha, ent
 
 Estos son algunos errores, o anti-consejos, que deberías evitar al momento de crear tus gráficos en Excel para evitar que tus informes pierden efectividad.
 
-[Los 5 errores que estás cometiendo al hacer un gráfico en Excel](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/los-5-errores-que-estas-cometiendo-al-hacer-un-grafico-en-excel/)
+[Los 5 errores que estás cometiendo al hacer un gráfico en Excel](/blog/automatizacion-con-excel/5-errores-grafico-en-excel/)
 
 ## Repasemos los conceptos básicos
 
@@ -68,53 +68,53 @@ Estos son algunos errores, o anti-consejos, que deberías evitar al momento de c
 
 No hay problema. En esta sección repasaremos los conceptos más básicos, si quieres comenzar con una buena base. Si tú sientes que estos conceptos están claros, puedes pasar a la siguiente sección.
 
-[Partes de un Gráfico en Excel](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/partes-de-un-grafico/)
+[Partes de un Gráfico en Excel](/blog/automatizacion-con-excel/partes-de-un-grafico/)
 
-[Tipos de gráficos en Excel](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/tipos-de-graficos-en-excel/)
+[Tipos de gráficos en Excel](/blog/automatizacion-con-excel/tipos-de-graficos-en-excel/)
 
-[Cómo agregar un título al gráfico](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/como-agregar-un-titulo-al-grafico/)
+[Cómo agregar un título al gráfico](/blog/automatizacion-con-excel/agregar-un-titulo-al-grafico/)
 
-[Cómo crear un Gráfico en Excel](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/como-crear-un-grafico-en-excel/)
+[Cómo crear un Gráfico en Excel](/blog/automatizacion-con-excel/como-crear-un-grafico-en-excel/)
 
 ## Consejos para comenzar con los gráficos en Excel
 
 En esta sección compartiré contigo consejos que te permitirán comenzar con pie derecho la creación de gráficos en Excel, para que obtengas los resultados deseados sin perder demasiado tiempo.
 
-[Cómo elegir el gráfico más adecuado para tu informe](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/como-elegir-el-grafico-mas-adecuado-para-tu-informe/)
+[Cómo elegir el gráfico más adecuado para tu informe](/blog/automatizacion-con-excel/como-elegir-el-grafico-mas-adecuado/)
 
-[Cómo crear gráficos en Excel, sin hacer horas extra](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/como-crear-graficos-en-excel/)
+[Cómo crear gráficos en Excel, sin hacer horas extra](/blog/automatizacion-con-excel/como-crear-graficos-en-excel/)
 
 ## Trucos y consejos para lograr más con los gráficos en Excel
 
 En esta sección te compartiré algunos trucos y consejos interesantes que podrás aplicar para mejorar tus gráficos o ser más eficiente a la hora de crearlos.
 
-[Cómo agregar datos a tus gráficos rápidamente](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/agregar-datos-graficos-de-excel/)
+[Cómo agregar datos a tus gráficos rápidamente](/blog/automatizacion-con-excel/graficos-de-excel/)
 
-[Cómo agregar un Eje Secundario en Excel](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/como-agregar-un-eje-secundario-en-excel/)
+[Cómo agregar un Eje Secundario en Excel](/blog/automatizacion-con-excel/eje-secundario-en-excel/)
 
-[Cambiar la escala del eje horizontal en tu gráfico](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/cambiar-la-escala-del-eje-horizontal/)
+[Cambiar la escala del eje horizontal en tu gráfico](/blog/automatizacion-con-excel/escala-del-eje-horizontal/)
 
-[Cómo marcar el máximo y mínimo en un Gráfico](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/maximo-y-minimo-en-grafico/)
+[Cómo marcar el máximo y mínimo en un Gráfico](/blog/automatizacion-con-excel/maximo-y-minimo/)
 
-[Cómo crear una línea de meta en tu gráfico sin alterar la tabla](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/como-crear-una-linea-de-meta-en-tu-grafico-sin-alterar-la-tabla/)
+[Cómo crear una línea de meta en tu gráfico sin alterar la tabla](/blog/automatizacion-con-excel/crear-una-linea-de-meta/)
 
 ## Gráficos avanzados: consejos para hacer gráficos de mayor impacto
 
 En esta sección te dejaré algunos consejos para que comiences a realizar gráficos más avanzados que te permitan representar visualmente esos hallazgos que has encontrado y que quieres comunicar a tu audiencia.
 
-[Crea tu propio Gráfico Dinámico en Excel](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/crea-tu-propio-grafico-dinamico-en-excel/)
+[Crea tu propio Gráfico Dinámico en Excel](/blog/automatizacion-con-excel/grafico-dinamico-en-excel/)
 
-[Graficar en Excel: Gráfico en Forma de Cigarrillo](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/graficar-en-excel-una-manera-distinta/)
+[Graficar en Excel: Gráfico en Forma de Cigarrillo](/blog/automatizacion-con-excel/)
 
-[Dibujar un barco… dentro de un gráfico](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/dibujar-un-barco-en-grafico/)
+[Dibujar un barco… dentro de un gráfico](/blog/automatizacion-con-excel/graficar-en-excel/)
 
 ## Otras formas de visualización de datos en Excel
 
 En esta sección te mostraré otras formas en las que puedes visualizar datos en Excel y que no son gráficos Prediseñados en Excel. Desde tablas con colores, símbolos e incluso trucos con autoformas, podemos ponernos creativos con Excel y elaborar nuevas formas de visualizar datos cuando los gráficos no se adaptan exactamente a lo que queremos, o cuando lo que queremos representar no amerita el uso de un gráfico prediseñado.
 
-[Mostrar una casilla de verificación, usando texto](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/casilla-de-verificacion-usando-solo-texto/)
+[Mostrar una casilla de verificación, usando texto](/blog/automatizacion-con-excel/casilla-de-verificacion/)
 
-[Cómo resaltar números negativos en Excel](https://raymundoycaza.com/automatizacion-con-excel/graficos-en-excel/como-resaltar-numeros-negativos-en-excel/)
+[Cómo resaltar números negativos en Excel](/blog/automatizacion-con-excel/resaltar-numeros-negativos-en-excel/)
 
 ## Para terminar
 

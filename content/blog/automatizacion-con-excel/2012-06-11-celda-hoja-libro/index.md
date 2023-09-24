@@ -9,7 +9,7 @@ images: []
 resources: 
 - name: 'featured-image'
   src: 'images/la-celda,-la-hoja-y-el-libro_portada.png'
-slug: la-celda,-la-hoja-y-el-libro
+slug: la-celda-la-hoja-y-el-libro
 type: excel
 layout: excel1
 ---

@@ -32,27 +32,27 @@ Las macros son, en palabras sencillas, una serie de instrucciones que le damos a
 
 ![Qué es la automatización con Excel](images/RYIMG-20230409162731.png)
 
-[Si buscas optimizar tus procesos de negocio y aumentar tu productividad, no puedes perderte mi artículo "Qué es la automatización de procesos con Excel" »](https://raymundoycaza.com/automatizacion-productividad-con-excel/9614/)
+[Si buscas optimizar tus procesos de negocio y aumentar tu productividad, no puedes perderte mi artículo "Qué es la automatización de procesos con Excel" »](/blog/automatizacion-con-excel/que-es-la-automatizacion-con-excel)
 
-Si tienes poca experiencia en el uso de macros, puedes empezar utilizando la [grabadora de macros](https://raymundoycaza.com/como-grabar-macros/3759/) para experimentar con tareas sencillas y cortas.
+Si tienes poca experiencia en el uso de macros, puedes empezar utilizando la [grabadora de macros](/blog/automatizacion-con-excel/como-grabar-macros/) para experimentar con tareas sencillas y cortas.
 
 ![](images/RYIMG-20230409211107.png)
 
-[¡Anímate a dar el primer paso! Utiliza la grabadora de macros en Excel y empieza ya tu aventura en el mundo de la automatización »](https://raymundoycaza.com/como-grabar-macros/3759/)
+[¡Anímate a dar el primer paso! Utiliza la grabadora de macros en Excel y empieza ya tu aventura en el mundo de la automatización »](/blog/automatizacion-con-excel/como-grabar-macros/)
 
 Esto te ayudará a entender cómo funcionan las macros de forma general y será un buen primer acercamiento.
 
-Sin embargo, si deseas tomar el control completo de los datos en tu hoja de Excel y automatizar procesos más complejos como limpieza, resumen, transformación de datos y generación de reportes, entonces necesitas familiarizarte con [el lenguaje VBA](https://raymundoycaza.com/mensaje-en-excel/4215/).
+Sin embargo, si deseas tomar el control completo de los datos en tu hoja de Excel y automatizar procesos más complejos como limpieza, resumen, transformación de datos y generación de reportes, entonces necesitas familiarizarte con [el lenguaje VBA](/blog/automatizacion-con-excel/mensaje-en-excel/).
 
 ![](images/RYIMG-20230411204627.png)
 
-[Si vas en serio con la automatización en Excel, entonces te dejo estos 10 consejos para usar macros que deberías tener en cuenta »](https://raymundoycaza.com/10-consejos-para-usar-macros-en-excel/6097/)
+[Si vas en serio con la automatización en Excel, entonces te dejo estos 10 consejos para usar macros que deberías tener en cuenta »](/blog/automatizacion-con-excel/usar-macros-en-excel/)
 
 ## Ventajas de la automatización
 
 La automatización tiene ventajas, sí.
 
-Y me refiero a la automatización de procesos de negocio para emprendedores, pequeños y medianos negocios. [De eso es de lo que hablo en este blog](https://raymundoycaza.com/blog-automatizacion/).
+Y me refiero a la automatización de procesos de negocio para emprendedores, pequeños y medianos negocios. [De eso es de lo que hablo en este blog](/blog/).
 
 Lo que destaca más entre las ventajas de la automatización para negocios, es el **aumento de la eficiencia en las actividades operativas**.
 
@@ -84,13 +84,13 @@ Si realmente es tu primer acercamiendo a las macros y no tienes nociones básica
 
 ![Macros en Excel para automatizar procesos ](images/RYIMG-20230409211107.jpg)
 
-[¡Anímate a dar el primer paso! Utiliza la grabadora de macros en Excel y empieza ya tu aventura en el mundo de la automatización »](https://raymundoycaza.com/como-grabar-macros/3759/)
+[¡Anímate a dar el primer paso! Utiliza la grabadora de macros en Excel y empieza ya tu aventura en el mundo de la automatización »](/blog/automatizacion-con-excel/como-grabar-macros/)
 
 Una vez que ya has realizado tus primeras pruebas con la grabadora de macros, tal vez quieras continuar con una introducción más detallada de este tema.
 
 ![Macros en Excel para automatizar procesos ](images/RYIMG-20230411225159.png)
 
-[¡El momento es ahora! Iníciate en el mundo de la automatización con Excel y domina las macros, paso a paso »](https://raymundoycaza.com/curso-macros-en-excel/5562/)
+> ¡El momento es ahora! Iníciate en el mundo de la automatización con Excel y domina las macros, paso a paso
 
 ### Consejos y recomendaciones para macros de Excel
 
@@ -98,11 +98,11 @@ En esta sección te daré un par de consejos para que aproveches las macros al m
 
 ![](images/RYIMG-20230411233621.png)
 
-[10 formas de aprovechar las macros en Excel (y al menos una de ellas es para ti) »](https://raymundoycaza.com/10-formas-de-aprovechar-las-macros-en-excel/6524/)
+[10 formas de aprovechar las macros en Excel (y al menos una de ellas es para ti) »](/blog/automatizacion-con-excel/macros-en-excel-10-usos/)
 
 ![Macros en Excel para automatizar procesos ](images/RYIMG-20230411234658.png)
 
-[10 consejos para usar macros en Excel que de seguro te servirán »](https://raymundoycaza.com/10-consejos-para-usar-macros-en-excel/6097/)
+[10 consejos para usar macros en Excel que de seguro te servirán »](/blog/automatizacion-con-excel/usar-macros-en-excel/)
 
 ### ¿Tienes problemas para abrir un archivo con macros?
 
@@ -110,7 +110,7 @@ Tal vez quieras pasarte por este artículo en el que te doy un par de consejos s
 
 ![](images/RYIMG-20230411225828.png)
 
-[Cómo abrir un archivo con macros en Excel: Un par de consejos que nunca están de más »](https://raymundoycaza.com/abrir-un-archivo-con-macros/4668/)
+[Cómo abrir un archivo con macros en Excel: Un par de consejos que nunca están de más »](/blog/automatizacion-con-excel/abrir-un-archivo-con-macros/)
 
 ### ¿Necesitas resolver otros problemas puntuales de Macros en Excel para automatizar procesos de negocio?
 
@@ -118,22 +118,22 @@ Si estás necesitando dar solución a ese problema puntual y genérico que te ha
 
 Recuerda que la lista se irá actualizando constantemente.
 
-- [Cómo escribir en una celda, usando Macros (VBA)](https://raymundoycaza.com/como-escribir-en-una-celda-usando-macros-vba/5761/)
+- [Cómo escribir en una celda, usando Macros (VBA)](/blog/automatizacion-con-excel/escribir-en-una-celda/)
 
-- [Cómo Proteger una Hoja de Excel usando Macros](https://raymundoycaza.com/proteger-una-hoja-de-excel-usando-macros/5736/)
+- [Cómo Proteger una Hoja de Excel usando Macros](/blog/automatizacion-con-excel/proteger-una-hoja-en-excel/)
 
-- [Cómo obtener el valor de la celda activa, usando macros](https://raymundoycaza.com/como-obtener-el-valor-de-la-celda-activa-usando-macros/4702/)
+- [Cómo obtener el valor de la celda activa, usando macros](/blog/automatizacion-con-excel/obtener-el-valor-de-la-celda-activa/)
 
-- [¿Cómo Sumar Celdas Visibles en Excel, usando Macros?](https://raymundoycaza.com/como-sumar-celdas-visibles-en-excel-usando-macros/5801/)
+- [¿Cómo Sumar Celdas Visibles en Excel, usando Macros?](/blog/automatizacion-con-excel/sumar-celdas-visibles/)
 
-- [Cómo obtener el nombre de la hoja en Excel, usando macros](https://raymundoycaza.com/como-obtener-el-nombre-de-la-hoja-en-excel-usando-macros/6630/)
+- [Cómo obtener el nombre de la hoja en Excel, usando macros](/blog/automatizacion-con-excel/obtener-el-nombre-de-la-hoja-en-excel/)
 
-- [Cómo Obtener el Nombre de Archivo en Excel, usando macros](https://raymundoycaza.com/como-obtener-el-nombre-de-archivo-en-excel-usando-macros/6628/)
+- [Cómo Obtener el Nombre de Archivo en Excel, usando macros](/blog/automatizacion-con-excel/obtener-el-nombre-de-archivo-en-excel/)
 
-- [Cómo ejecutar una macro de Excel ‘N’ veces o cómo repetir una macro varias veces sin tener que hacerlo una por una](https://raymundoycaza.com/como-ejecutar-una-macro-de-excel-n-veces/6563/)
+- [Cómo ejecutar una macro de Excel ‘N’ veces o cómo repetir una macro varias veces sin tener que hacerlo una por una](/blog/automatizacion-con-excel/ejecutar-una-macro/)
 
-- [Cómo ejecutar una macro periódicamente (cada cierto tiempo)](https://raymundoycaza.com/ejecutar-una-macro-periodicamente/4758/)
+- [Cómo ejecutar una macro periódicamente (cada cierto tiempo)](/blog/automatizacion-con-excel/ejecutar-una-macro-periodicamente/)
 
-- [Cómo agregar una macro a la barra de herramientas de acceso rápido en Excel](https://raymundoycaza.com/como-agregar-una-macro-la-barra-de-herramientas-acceso-rapido/6138/)
+- [Cómo agregar una macro a la barra de herramientas de acceso rápido en Excel](/blog/automatizacion-con-excel/agregar-a-barra-herramientas/)
 
-- [Cómo esconder tus macros en Excel, para que no se vean desde la hoja.](https://raymundoycaza.com/como-esconder-tus-macros-en-excel-para-que-no-se-vean-desde-la-hoja/6393/)
+- [Cómo esconder tus macros en Excel, para que no se vean desde la hoja.](/blog/automatizacion-con-excel/esconder-tus-macros/)
