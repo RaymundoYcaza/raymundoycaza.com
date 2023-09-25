@@ -104,6 +104,8 @@ En esta sección te dejaré algunos consejos para que comiences a realizar gráf
 
 [Crea tu propio Gráfico Dinámico en Excel](/blog/automatizacion-con-excel/grafico-dinamico-en-excel/)
 
+[Crear un diagrama de Gantt en Excel](/blog/automatizacion-con-excel/diagrama-de-gantt-en-excel/)
+
 [Graficar en Excel: Gráfico en Forma de Cigarrillo](/blog/automatizacion-con-excel/)
 
 [Dibujar un barco… dentro de un gráfico](/blog/automatizacion-con-excel/graficar-en-excel/)
@@ -115,6 +117,8 @@ En esta sección te mostraré otras formas en las que puedes visualizar datos en
 [Mostrar una casilla de verificación, usando texto](/blog/automatizacion-con-excel/casilla-de-verificacion/)
 
 [Cómo resaltar números negativos en Excel](/blog/automatizacion-con-excel/resaltar-numeros-negativos-en-excel/)
+
+[Cómo resaltar datos en Excel](/blog/automatizacion-con-excel/resaltar-en-excel/)
 
 ## Para terminar
 

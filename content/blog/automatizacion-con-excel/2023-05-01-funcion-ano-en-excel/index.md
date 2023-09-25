@@ -9,7 +9,7 @@ images: []
 resources: 
 - name: 'featured-image'
   src: 'images/funcion-año-en-excel_portada.png'
-slug: funcion-año-en-excel
+slug: funcion-ano-en-excel
 type: excel
 layout: excel1
 ---

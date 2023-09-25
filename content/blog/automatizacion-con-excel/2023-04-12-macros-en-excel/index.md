@@ -137,3 +137,54 @@ Recuerda que la lista se irá actualizando constantemente.
 - [Cómo agregar una macro a la barra de herramientas de acceso rápido en Excel](/blog/automatizacion-con-excel/agregar-a-barra-herramientas/)
 
 - [Cómo esconder tus macros en Excel, para que no se vean desde la hoja.](/blog/automatizacion-con-excel/esconder-tus-macros/)
+
+- [Cómo resaltar la celda activa usando macros en Excel](/blog/automatizacion-con-excel/resaltar-la-celda-activa/)
+
+- [Cómo crear un botón flotante en Excel](/blog/automatizacion-con-excel/boton-flotante/)
+
+- [Cómo crear un efecto 'Mouse Over' en Excel](/blog/automatizacion-con-excel/efecto-mouse-over-en-excel/)
+
+- [Cómo contar filas en Excel usando Macros](/blog/automatizacion-con-excel/contar-filas-en-excel/)
+
+- [Cómo refrescar todas las tablas dinámicas al mismo tiempo usando Macros](/blog/automatizacion-con-excel/refrescar-todas-las-tablas-dinamicas/)
+
+- [Cómo cerrar Excel usando Macros](/blog/automatizacion-con-excel/cerrar-excel-desde-una-macro/)
+
+- [Cómo impedir la impresión en Excel, usando Macros](/blog/automatizacion-con-excel/impedir-la-impresion-en-excel/)
+
+- [3 Formas de colocar un rango en un Array usando Macros de Excel](/blog/automatizacion-con-excel/rango-en-un-array)
+
+- [Cómo insertar un módulo de VBA en Excel](/blog/automatizacion-con-excel/insertar-un-modulo-en-excel/)
+
+- [10 Atajos de teclado para VBA en Excel](/blog/automatizacion-con-excel/atajos-de-teclado-vba/)
+
+- [Cómo detectar el cambio en una celda usando Macros de Excel](/blog/automatizacion-con-excel/detectar-el-cambio-en-una-celda/)
+
+- [Cómo marcar una celda con un clic, usando Macros de Excel](/blog/automatizacion-con-excel/como-marcar-una-celda/)
+
+- [Cómo contar el número de celdas por su color usando Macros](/blog/automatizacion-con-excel/contar-celdas-por-su-color/)
+
+- [Cómo desbloquear una hoja en Excel protegida por contraseña, usando Macros](/blog/automatizacion-con-excel/desbloquear/)
+
+- [Cómo crear un indice de todas las hojas en tu libro de Excel, usando Macros](/blog/automatizacion-con-excel/crear-un-indice/)
+
+- [Cómo asignar una macro de Excel a un botón](/blog/automatizacion-con-excel/asignar-macro-a-boton/)
+
+- [Cómo crear una macro que se ejecute al abrir Excel](/blog/automatizacion-con-excel/macro-al-abrir-excel/)
+
+- [Cómo bloquear ciertas celdas en Excel si no se han llenado otras](/blog/automatizacion-con-excel/bloquear-ciertas-celdas-en-excel/)
+
+- [Cómo forzar la escritura en mayúsculas usando VBA](/blog/automatizacion-con-excel/forzar-mayusculas-con-vba/)
+
+- [Cómo crear una celda intermitente en Excel](/blog/automatizacion-con-excel/crear-una-celda-intermitente/)
+
+- [Cómo insertar automáticamente los meses del año en Excel usando Macros](/blog/automatizacion-con-excel/insertar-meses-en-excel/)
+
+- [Cómo crear un libro de trabajo a pantalla completa usando Macros](/blog/automatizacion-con-excel/excel-pantalla-completa/)
+
+- [Cómo crear una macro para convertir texto a fecha en formato iso de forma fácil y rápida](/blog/automatizacion-con-excel/macro-para-convertir-fecha-en-texto/)
+
+- [Ejemplos de Macros en Excel](/blog/automatizacion-con-excel/ejemplos-de-macros-en-excel/)
+
+- [Escribe tu primera Macro en Excel](/blog/automatizacion-con-excel/macro-en-excel/)
+

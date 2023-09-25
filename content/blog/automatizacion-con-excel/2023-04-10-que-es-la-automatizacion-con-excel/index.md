@@ -16,7 +16,7 @@ layout: excel1
 
 Si estás leyendo esto, es porque estás interesado o interesada en mejorar tu productividad y sacar el máximo provecho de Excel.
 
-En este artículo te explicaré todo lo que necesitas saber sobre la [automatización con Excel](../) y cómo puede ayudarte a ahorrar tiempo y esfuerzo en tus tareas diarias.
+En este artículo te explicaré todo lo que necesitas saber sobre la [automatización con Excel](/blog/automatizacion-con-excel/) y cómo puede ayudarte a ahorrar tiempo y esfuerzo en tus tareas diarias.
 
 Si eres nuevo en el mundo de la automatización y no sabes por dónde empezar, ¡no te preocupes!
 
@@ -25,6 +25,12 @@ Te explicaré todo de manera clara y sencilla, sin términos técnicos complicad
 Prepárate para descubrir cómo la automatización con Excel puede transformar tu forma de trabajar y mejorar tu productividad de manera significativa.
 
 ¡Empecemos!
+
+## Domina Excel, paso a paso
+
+Desde que comencé este blog, allá por el año 2012, he tratado de escribir de manera que todos los que lean estas publicaciones puedan seguir un hilo más o menos claro. Y, aunque este no es un curso realmente (como la mayoría de los "cursos" que hay por ahí), lo cierto es que aquí te dejo mi "tutorial extendido" para principiantes que para evitar confusiones lo llamaremos **curso de Excel**. ¿Te parece?
+
+> Accede a mi [**curso "Domina Excel, paso a paso"**](/blog/automatizacion-con-excel/curso-de-excel/) que estará en constante actualización.
 
 ## La importancia de la productividad en el trabajo
 
@@ -45,11 +51,18 @@ La automatización con Excel es una herramienta valiosa para mejorar la producti
 [Excel es un programa que ayuda a organizar información](https://www.youtube.com/watch?v=phy-h61Xnlg) y presentarla en forma de tabla y gráficos.
 
 {{<youtube phy-h61Xnlg>}}
+
 Su principal función es hacer cálculos y, por supuesto, **ahorrar tiempo al automatizar procesos repetitivos**.
 
-Por esta razón, a este tipo de herramientas se les denomina "Hojas de Cálculo".
+Por esta razón, a este tipo de herramientas se les denomina "Hojas de Cálculo". 
 
-Además, si usas Excel correctamente, puedes aumentar tu productividad y hacer más cosas en menos tiempo.
+> Revisa mi publicación [¿Qué es Excel?](/blog/automatizacion-con-excel/que-es-excel/)
+
+Si ya tienes claro lo que es Excel, tal vez sería conveniente que sepas cuáles son sus componentes básicos: [La celda, la hoja y el libro](/blog/automatizacion-con-excel/la-celda-la-hoja-y-el-libro/)
+
+Tomarte el tiempo de entender las bases de Excel, puede ahorrarte mucho tiempo a la larga y aprenderás a utilizarlo correctamente.
+
+Además, si usas Excel correctamente, puedes aumentar tu productividad y **hacer más cosas en menos tiempo**.
 
 Por eso, es importante aprender a usar Excel y aprovecharlo para nuestro trabajo diario.
 

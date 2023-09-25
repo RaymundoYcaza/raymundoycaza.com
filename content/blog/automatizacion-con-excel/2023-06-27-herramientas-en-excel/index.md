@@ -54,6 +54,8 @@ En esta sección te mostraré cuáles son estas herramientas y cómo puedes apro
 
 [Autofiltro en Excel: Cómo filtrar y ordenar datos para agilizar tus procesos de negocio](/blog/automatizacion-con-excel/autofiltro-en-excel/)
 
+[Entendiendo el formato personalizado](/blog/automatizacion-con-excel/formato-personalizado/)
+
 [Cómo ordenar un listado en Excel, según el mes.](/blog/automatizacion-con-excel/como-ordenar-un-listado-en-excel/)
 
 [Duplicados en Excel: ¿Cómo detectarlos de un vistazo?](/blog/automatizacion-con-excel/duplicados-en-excel/)
@@ -106,6 +108,8 @@ En esta sección te mostraré cuáles son estas herramientas y cómo puedes apro
 
 [Cómo crear un generador de contraseñas en Excel](/blog/automatizacion-con-excel/generador-de-contrasenas-en-excel/)
 
+[Cómo evitar las tablas auxiliares en Excel](/blog/automatizacion-con-excel/tablas-auxiliares/)
+
 ## Cómo crear tus propias herramientas en Excel
 
 Una vez que llegamos a conocer Excel y sus posibilidades, no podemos evitar el pensar en cómo podríamos hacer uso de todas sus características para poder crear nuestras propias herramientas.
@@ -127,3 +131,15 @@ En esta sección iré colocando pequeños experimentos sencillos que hice hace m
 [Aprende Haciendo: Agenda en Excel que te recuerda los eventos pendientes (2 de 2)](/blog/automatizacion-con-excel/agenda-en-excel-2-de-2/)
 
 [Cómo crear una tarjeta de amor y amistad en Excel](/blog/automatizacion-con-excel/dia-del-amor-y-la-amistad/)
+
+[Cómo transponer en Excel](/blog/automatizacion-con-excel/como-transponer-en-excel/)
+
+[Cómo crear formularios en Excel](/blog/automatizacion-con-excel/como-crear-formularios-en-excel-2010/)
+
+[Cómo convertir un texto a fecha](/blog/automatizacion-con-excel/convertir-un-texto-a-fecha/)
+
+[Cómo insertar imágenes en los comentarios de Excel](/blog/automatizacion-con-excel/insertar-imagenes-en-comentarios/)
+
+[Cómo limitar el área de trabajo en Excel](/blog/automatizacion-con-excel/area-de-trabajo-en-excel/)
+
+[Cómo abrir Excel desde la línea de comandos y pasarle argumentos](/blog/automatizacion-con-excel/abrir-excel-desde-linea-de-comandos/)

@@ -7,6 +7,16 @@ body[theme="dark"] img.logo {
     content: url(../images/logo-ry-dark.png) !important;
 }
 
+p > a {
+  background-color: aliceblue;
+  padding: 0 5px;
+  font-weight: 500;
+}
+
+ul > li > p > a {
+  background-color: transparent;
+}
+
 img.logo {
   content: url(../images/logo-ry.png) !important;
 }

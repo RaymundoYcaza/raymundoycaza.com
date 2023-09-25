@@ -14,4 +14,7 @@ type: excel
 layout: excel1
 ---
 
+[Cómo crear campos calculados en una **Tabla Dinámica**](/blog/automatizacion-con-excel/columnas-calculadas-tablas-dinamicas/)
+
+[Cómo eliminar los datos antiguos de tu Tabla Dinámica](/blog/automatizacion-con-excel/eliminar-datos-tabla-dinamica/)
 

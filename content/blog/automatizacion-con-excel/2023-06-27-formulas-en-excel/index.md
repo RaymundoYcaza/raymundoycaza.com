@@ -100,6 +100,8 @@ Espera, antes de continuar te recomiendo que tengas en cuenta estos 7 principios
 
 Si eres nuevo en el uso de fórmulas en Excel, no te puedes perder estos principios sobre los cuales se basa todo el manejo de las mismas. Una lista que deberías tener a la mano para referencia rápida 😉
 
+> ❓ ¿Sabías que puedes [utilizar operaciones matemáticas simples sobre tus datos, sin utilizar fórmulas?](/blog/automatizacion-con-excel/operaciones-matematicas/), antes de continuar tu lectura.
+
 **¿Y cuáles serían las fórmulas con las que yo debería comenzar?**
 
 Hasta este punto (si te has leído los artículos que te he recomendado) ya has realizado algunas pruebas de fórmulas sencillas, como sumar o multiplicar números. Incluso dividir o elevar a una potencia.
@@ -116,9 +118,14 @@ Una vez que hayas trabajado tus primeras fórmulas utilizando referencias, es mu
 
 ![Referencias Absolutas y Relativas](images/referencias-absolutas-y-relativas-150x150.png)
 
-#### **[Referencias absolutas y relativas](/blog/automatizacion-con-excel/referencias-absolutas-y-relativas/)**
+#### [Referencias absolutas y relativas](/blog/automatizacion-con-excel/referencias-absolutas-y-relativas/)
 
-Una referencia en Excel identifica a una celda (o rango de celdas) dentro de una hoja de trabajo y le hace saber a Excel en dónde buscar los valores que se quieren utilizar en una fórmula.
+Una referencia en Excel identifica a una celda (o [rango de celdas](/blog/automatizacion-con-excel/rango-en-excel/)) dentro de una hoja de trabajo y le hace saber a Excel en dónde buscar los valores que se quieren utilizar en una fórmula.
+
+## Manejando las fechas en Excel
+
+Uno de los principales tipos de datos que manejarás con Excel son las fechas pero, ¿sabías que para Excel las fechas no son lo que parece? [Aquí te lo cuento todo](/blog/automatizacion-con-excel/que-son-las-fechas/).
+
 
 Y si ya quieres comenzar a utilizar tus primeras funciones, yo te recomendaría comenzar por las más sencillas y a la vez más utilizadas por los principiantes:
 
@@ -132,9 +139,62 @@ Y si ya quieres comenzar a utilizar tus primeras funciones, yo te recomendaría 
 
 - [SUMAR.SI](/blog/automatizacion-con-excel/funcion-sumar.si/)
 
-### Preguntas más frecuentes sobre fórmulas y funciones en Excel
+> ¿Sabías que puedes [encontrar las celdas que **no tienen fórmula**](/blog/automatizacion-con-excel/celdas-que-no-tienen-formula/) de manera fácil y rápida? 
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","@id":"https://raymundoycaza.com/automatizacion-con-excel/formulas-en-excel/","mainEntity":[{"@type":"Question","name":"¿Cuáles son las 10 fórmulas (funciones) más usadas en Excel?","acceptedAnswer":{"@type":"Answer","text":"&lt;code>SUMA &lt;/code>&lt;br>PROMEDIO&lt;br>CONTAR&lt;br>&lt;code>HOY&lt;/code>&lt;br>&lt;code>CONTARA&lt;/code>&lt;br>&lt;code>CONCATENAR&lt;/code>&lt;br>&lt;code>BUSCARV&lt;/code>&lt;br>&lt;code>SI&lt;/code>&lt;br>&lt;code>SUMAR.SI&lt;/code>&lt;br>&lt;code>CONTAR.SI&lt;/code>"}},{"@type":"Question","name":"¿Cuáles las 3 fórmulas (funciones) de Excel más usadas por los principiantes?","acceptedAnswer":{"@type":"Answer","text":"&lt;code>SUMA &lt;/code>&lt;br>PROMEDIO&lt;br>CONTAR"}},{"@type":"Question","name":"¿Cuáles son los tipos de funciones de Excel?","acceptedAnswer":{"@type":"Answer","text":"&lt;code>Funciones de búsqueda y referencia &lt;/code>&lt;br>&lt;code>Funciones de texto &lt;/code>&lt;br>&lt;code>Funciones lógicas &lt;/code>&lt;br>&lt;code>Funciones de fecha y hora &lt;/code>&lt;br>&lt;code>Funciones de base de datos &lt;/code>&lt;br>&lt;code>Funciones matemáticas y trigonométricas &lt;/code>&lt;br>&lt;code>Funciones financieras &lt;/code>&lt;br>&lt;code>Funciones estadísticas &lt;/code>&lt;br>&lt;code>Funciones de información &lt;/code>&lt;br>&lt;code>Funciones de ingeniería &lt;/code>&lt;br>&lt;code>Funciones de cubo &lt;/code>&lt;br>&lt;code>Funciones web&lt;/code>"}}]}</script>
+
+## Funciones lógicas
+
+[Función SI](/blog/automatizacion-con-excel/la-funcion-si/)
+
+## Funciones de texto
+
+[Función CONCATENAR](/blog/automatizacion-con-excel/concatenar-en-excel/)
+
+[Función IZQUIERDA](/blog/automatizacion-con-excel/funcion-izquierda-en-excel/)
+
+[Función ESPACIOS](/blog/automatizacion-con-excel/eliminar-espacios-en-excel/)
+
+## Funciones financieras
+
+## Funciones de fecha y hora
+
+[Función AÑO](/blog/automatizacion-con-excel/funcion-ano-en-excel/)
+
+[Función DIA](/blog/automatizacion-con-excel/funcion-dia-en-excel/)
+
+[Función MES](/blog/automatizacion-con-excel/funcion-mes-en-excel/)
+
+## Funciones de búsqueda y referencia
+
+[Función COINCIDIR](/blog/automatizacion-con-excel/la-funcion-coincidir/)
+
+## Funciones matemáticas y trigonométricas
+
+[Función REDONDEAR](/blog/automatizacion-con-excel/funcion-redondear/)
+
+[Función ABS](/blog/automatizacion-con-excel/funcion-abs/)
+
+[Función PRODUCTO](/blog/automatizacion-con-excel/funcion-producto-en-excel/)
+
+[Función MAX / Función MIN](/blog/automatizacion-con-excel/funcion-max-y-min-en-excel/)
+
+## ¿Qué puedo hacer con las fórmulas de Excel?
+
+[Cómo sumar celdas visibles](/blog/automatizacion-con-excel/sumar-celdas-visibles-en-excel/)
+
+[Cómo encontrar el valor mínimo](/blog/automatizacion-con-excel/encontrar-el-minimo-con-excel/)
+
+[Cómo restar fechas](/blog/automatizacion-con-excel/diferencia-de-fechas-en-excel/)
+
+[Cómo concatenar un rango sin usar macros](/blog/automatizacion-con-excel/sin-usar-macros/)
+
+[Cómo rellenar un texto o cómo forzar una longitud fija en Excel](/blog/automatizacion-con-excel/como-rellenar-un-texto/)
+
+[Cómo buscar datos en Excel](/blog/automatizacion-con-excel/busqueda-de-datos-en-excel/)
+
+[Cómo resaltar una fecha de vencimiento](/blog/automatizacion-con-excel/resaltar-una-fecha-de-vencimiento/)
+
+## Preguntas más frecuentes sobre fórmulas y funciones en Excel
 
 ¿Cuáles son las 10 fórmulas (funciones) más usadas en Excel?
 
