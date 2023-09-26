@@ -20,7 +20,7 @@
     <div>
         <h2>Publicaciones recientes en Automatización con Excel</h2>
         <div class="grid-container">
-            {{ range ( where .Site.RegularPages "Type" "excel" | last 3) }}
+            {{ range ( where .Site.RegularPages "Type" "excel" | first 3) }}
             <div class="card">
                 {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
                 {{ with $img }}

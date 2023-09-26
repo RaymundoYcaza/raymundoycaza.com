@@ -8,7 +8,7 @@ tags: ['Automatización con Excel',' Análisis de Datos']
 images: []
 resources: 
 - name: 'featured-image'
-  src: 'images/analisis-de-datos-en-excel_portada.png'
+  src: 'images/analisis-de-datos_portada.png'
 slug: analisis-de-datos-en-excel
 type: excel
 layout: excel1
