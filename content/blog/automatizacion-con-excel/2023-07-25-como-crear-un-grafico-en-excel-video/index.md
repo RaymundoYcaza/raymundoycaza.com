@@ -98,9 +98,9 @@ O puedes escribir un título diferente, según lo necesites.
 
 ![](images/image-14.png)
 
-```
-Recuerda que el número de etiquetas, debe coincidir con el número de datos, o tendrás un error.
-```
+
+> Recuerda que el número de etiquetas, debe coincidir con el número de datos, o tendrás un error.
+
 
 8️⃣ Clic en "Aceptar".
 

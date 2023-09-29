@@ -8,7 +8,7 @@ tags: ['Macros en Excel','Programación VBA en Excel','🤖 Automatización con 
 images: []
 resources: 
 - name: 'featured-image'
-  src: 'images/macros-para-automatizar-procesos_portada.png'
+  src: 'images/macros-en-excel_portada.png'
 slug: macros-en-excel
 type: excel
 layout: excel1

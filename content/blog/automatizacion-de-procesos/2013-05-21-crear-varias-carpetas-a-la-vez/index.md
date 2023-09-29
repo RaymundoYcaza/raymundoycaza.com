@@ -1,5 +1,5 @@
 ---
-title: 'Crear varias carpetas a la ve: Organiza tus proyectos.'
+title: 'Crear varias carpetas a la vez: Organiza tus proyectos.'
 subtitle: 
 description: 'Simplifica la organización de tus proyectos creando múltiples carpetas al mismo tiempo y aumenta tu productividad.'
 date: 2013-05-21
