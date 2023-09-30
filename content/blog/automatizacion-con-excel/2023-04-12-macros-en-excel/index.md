@@ -10,8 +10,8 @@ resources:
 - name: 'featured-image'
   src: 'images/macros-en-excel_portada.png'
 slug: macros-en-excel
-type: excel
-layout: excel1
+type: cluster
+layout: cluster1
 ---
 
 Las macros en excel definitivamente son un complemento ideal para obtener una verdadera automatización de tareas dentro de excel.

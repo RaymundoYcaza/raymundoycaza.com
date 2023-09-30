@@ -10,8 +10,8 @@ resources:
 - name: 'featured-image'
   src: 'images/guia-de-graficos-en-excel_portada.png'
 slug: guia-de-graficos-en-excel
-type: excel
-layout: excel1
+type: cluster
+layout: cluster1
 ---
 
 Gráficos en Excel: La parte más sencilla de todas.

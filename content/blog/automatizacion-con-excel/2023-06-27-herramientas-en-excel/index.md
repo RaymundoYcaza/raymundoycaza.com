@@ -10,8 +10,8 @@ resources:
 - name: 'featured-image'
   src: 'images/herramientas-en-excel_portada.png'
 slug: herramientas-en-excel
-type: excel
-layout: excel1
+type: cluster
+layout: cluster1
 ---
 
 ¿Sabías que Excel es algo más qué fórmulas?

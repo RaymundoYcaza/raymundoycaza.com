@@ -15,8 +15,28 @@
     {{- /* Content */ -}}
     <div class="content" id="content">
         {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+        <div>
+            {{ range ( where .Site.RegularPages "Type" "cluster" | first 10) }}
+            <div class="ry-cluster">
+                {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+                {{ with $img }}
+                    {{ $big := .Fill "1024x512 top" }}
+                    {{ $small := $big.Resize "1000x" }}
+                    <div class="ry-image">
+                        <img src="{{ $small.RelPermalink }}" alt="{{ $img.Title }}" width="100%">
+                    </div>
+                {{ end }}                
+                <a href="{{ .Permalink }}"><h3 class="card-title"> {{ .Title }} »</h3></a>
+                <p class="ry-description">{{ .Description}}</p>
+            </div>
+            <div style="clear:both;"></div>
+            {{ end }}
+        </div>
     </div>
-
+    <div style="clear:both;"></div>
+    <div style="min-height: 2rem;"></div>
+    <hr />
+    <div style="min-height: 2rem;"></div>
     <div>
         <h2>Publicaciones recientes en Automatización con Excel</h2>
         <div class="grid-container">

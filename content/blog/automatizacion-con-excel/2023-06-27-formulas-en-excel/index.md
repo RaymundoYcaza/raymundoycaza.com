@@ -10,8 +10,8 @@ resources:
 - name: 'featured-image'
   src: 'images/guia-de-formulas-en-excel_portada.png'
 slug: guia-de-formulas-en-excel
-type: excel
-layout: excel1
+type: cluster
+layout: cluster1
 ---
 
 ¿Has trabajado con las fórmulas en Excel usando el modo de prueba y error?

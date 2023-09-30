@@ -10,8 +10,8 @@ resources:
 - name: 'featured-image'
   src: 'images/analisis-de-datos_portada.png'
 slug: analisis-de-datos-en-excel
-type: excel
-layout: excel1
+type: cluster
+layout: cluster1
 ---
 
 [Cómo crear campos calculados en una **Tabla Dinámica**](/blog/automatizacion-con-excel/columnas-calculadas-tablas-dinamicas/)
