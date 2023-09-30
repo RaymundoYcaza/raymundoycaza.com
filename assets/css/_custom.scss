@@ -65,6 +65,7 @@ img.ry-footer-logo {
 .page.home {
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover !important;
     overflow: hidden;
     background: #C33764;  /* fallback colour. Make sure this is just one solid colour. */
     background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("../images/hero-ry.webp");
@@ -302,6 +303,13 @@ body.home .wrapper main .container {
     .gdoc-post__anchor {
       display: none;
     }
+
+    @media screen and (max-width: 768px) {
+      .gdoc-columns { 
+          width: 100%;
+      }
+    }
+
   }
   
 // #endregion

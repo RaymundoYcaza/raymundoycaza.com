@@ -10,8 +10,8 @@ resources:
 - name: 'featured-image'
   src: 'images/que-es-la-automatizacion-con-excel_portada.png'
 slug: que-es-la-automatizacion-con-excel
-type: excel
-layout: excel1
+type: featured
+layout: featured1
 ---
 
 Si estás leyendo esto, es porque estás interesado o interesada en mejorar tu productividad y sacar el máximo provecho de Excel.

@@ -10,8 +10,8 @@ resources:
 - name: 'featured-image'
   src: 'images/automatizar-con-excel_portada.png'
 slug: automatizar-con-excel
-type: excel
-layout: excel1
+type: featured
+layout: featured1
 ---
 
 Automatizar Excel: ¿Qué significa?
