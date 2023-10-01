@@ -10,18 +10,19 @@ Si quieres descubrir cómo automatizar procesos complejos y crear informes preci
 {{< columns >}}
 [BÁSICO]^(Si eres principiante)
 
-![Básico](/blog/automatizacion-con-excel/que-es-la-automatizacion-con-excel/images/que-es-la-automatizacion-con-excel_portada.png)
+{{< ryimg "images/que-es-la-automatizacion-con-excel_portada.png" 500 "Automatización con Excel para Principiantes" >}}
 
-#### [¿Qué es la automatización con Excel? Comencemos desde el principio »](que-es-la-automatizacion-con-excel)
+<h4>{{< link href="que-es-la-automatizacion-con-excel" content="¿Qué es la automatización con Excel? Comencemos desde el principio »">}}</h4>
+
 
 Descubre cómo la automatización a través de Excel puede aumentar tu productividad y reducir errores en tus procesos de negocio.
 
 <--->
 [AVANZADO]^(Si ya conoces lo básico)
 
-![Básico](/blog/automatizacion-con-excel/automatizar-con-excel/images/automatizar-con-excel_portada.png)
+{{< ryimg "images/automatizar-con-excel_portada.png" 500 "" >}}
 
-#### [La guía definitiva para automatizar procesos con Excel »](automatizar-con-excel)
+<h4>{{< link href="automatizar-con-excel" content="La guía definitiva para automatizar procesos con Excel »">}}</h4>
 
 Automatiza tus procesos y aumenta tu productividad con esta guía completa para la automatización en tu hoja de cálculo favorita.
 

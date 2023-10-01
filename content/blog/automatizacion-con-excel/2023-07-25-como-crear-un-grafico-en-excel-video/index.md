@@ -40,11 +40,11 @@ Una vez que los tengas, hay varias maneras de crear un gráfico en Excel.
 
 La primera opción, es usando los gráficos recomendados, que vienen por defecto en Excel.
 
-[![](images/image-1.png)](https://raymundoycaza.com/wp-content/uploads/2023/07/image-1.png)
+![](images/image-1.png)
 
 Para hacer esto, simplemente tienes que seleccionar los datos que quieres graficar, te diriges a la pestaña "Insertar" y seleccionas la opción "Gráficos recomendados".
 
-[![](images/image-2.png)](https://raymundoycaza.com/wp-content/uploads/2023/07/image-2.png)
+![](images/image-2.png)
 
 Ahí, podrás elegir entre una gran variedad de gráficos, y ver cuál se ajusta mejor a tus necesidades.
 
@@ -56,7 +56,7 @@ Te ahorrará tiempo, y tendrás más probabilidades de alcanzar un resultado efe
 
 La segunda opción, es seleccionar el gráfico manualmente.
 
-[![](images/image-4.png)](https://raymundoycaza.com/wp-content/uploads/2023/07/image-4.png)
+![](images/image-4.png)
 
 Primero selecciona tus datos, luego dirígete a la pestaña "Insertar", selecciona el tipo de gráfico que deseas, y finalmente ajusta los detalles como títulos y etiquetas.
 
@@ -68,7 +68,7 @@ La tercera opción es hacerlo manualmente.
 
 Aunque puede parecer más complicado, en realidad es muy fácil.
 
-[![](images/image-6.png)](https://raymundoycaza.com/wp-content/uploads/2023/07/image-6.png)
+![](images/image-6.png)
 
 1️⃣ Selecciona una celda en blanco.
 
@@ -76,15 +76,15 @@ Aunque puede parecer más complicado, en realidad es muy fácil.
 
 3️⃣ Haz clic derecho sobre tu gráfico en blanco, y haz clic en "Seleccionar datos".
 
-[![](images/image-7.png)](https://raymundoycaza.com/wp-content/uploads/2023/07/image-7.png)
+![](images/image-7.png)
 
 4️⃣ En el panel de series, haz clic en "Agregar".
 
-[![](images/image-8.png)](https://raymundoycaza.com/wp-content/uploads/2023/07/image-8.png)
+![](images/image-8.png)
 
 5️⃣ Aquí, puedes seleccionar la celda que tendrá el título de tu serie.
 
-[![](images/image-9.png)](https://raymundoycaza.com/wp-content/uploads/2023/07/image-9.png)
+![](images/image-9.png)
 
 O puedes escribir un título diferente, según lo necesites.
 

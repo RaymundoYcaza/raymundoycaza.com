@@ -1,0 +1,57 @@
+{{- $respSizes := slice "320" "640" "960" "1280" "1600" "1920" -}}
+{{- $alt := "alt" -}}
+{{- $imgClass := "w-full h-auto animate-fade" -}}
+{{- $dataSzes := "(min-width: 250px) 100vw, 50vw" -}}
+
+{{ $image := .Page.Resources.GetMatch .Destination }}
+
+{{- $LQIP_img := $image.Resize "60x jpg" -}}
+{{- $LQIP_b64 := $LQIP_img.Content | base64Encode -}}
+
+{{- $CFPstyle := printf "%s%s%s" "background: url(data:image/jpeg;base64," $LQIP_b64 "); background-size: cover; background-repeat: no-repeat;" -}}
+
+{{- $actualImg := $image.Resize "640x jpg" -}}
+
+{{- $imgBd5 := md5 $image -}}
+
+
+<picture class="ry-content-img">
+  <source
+    type="image/webp"
+    srcset="
+    {{- with $respSizes -}}
+      {{- range $i, $e := . -}}
+        {{- if ge $image.Width . -}}
+          {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx%s" . " webp") ).RelPermalink }} {{ . }}w
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}"
+    sizes="{{ $dataSzes }}"
+  />
+  <source
+    type="image/jpeg"
+    srcset="
+    {{- with $respSizes -}}
+      {{- range $i, $e := . -}}
+        {{- if ge $image.Width . -}}
+          {{- if $i }}, {{ end -}}{{- ($image.Resize (printf "%sx%s" . " jpg") ).RelPermalink }} {{ . }}w
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}"
+    sizes="{{ $dataSzes }}"
+  />
+  <a href="{{ $image.RelPermalink }}" target="_blank">
+    <img class="{{ $imgClass }}"
+      src="{{ $actualImg.RelPermalink }}"
+      width="{{ $image.Width }}"
+      height="auto"
+      alt="{{ $alt }}"
+      loading="lazy"
+    />
+  </a>
+  <legend>
+    <em>
+      Haz clic en la imagen para verla en su tamaño original.
+    </em>
+  </legend>
+</picture>

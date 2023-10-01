@@ -71,5 +71,5 @@ Si quieres descargar esta ruleta con PowerPoint, ya terminada, sólo sigue las i
 ## Conclusión
 
 Como ves, no se trata necesariamente de cosas complejas. A veces, las soluciones más sencillas suman entre ellas lo suficiente como para sacarnos de más de un apuro y, si le pones algo de creatividad, lograrás realizar cosas realmente útiles. De eso se trata.
-
+portada: 'images/ruleta-con-powerpoint_portada.png'
 ¡Nos vemos!

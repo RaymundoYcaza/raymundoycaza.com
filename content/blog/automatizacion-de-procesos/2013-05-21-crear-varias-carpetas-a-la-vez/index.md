@@ -99,11 +99,3 @@ Y desde ahora, podrás crear automáticamente todas las subcarpetas necesarias p
 Si tienes ya implementado tu propia metodología de organización, me gustaría conocerla. Sería bueno que lo compartas en los comentarios para que otros usuarios puedan nutrirse con variedad de ideas que los inspiren a desarrollar su propio estilo de organización.
 
 ¡Nos vemos!
-
-\[aviso type="creditos"\]
-
-**Créditos**
-
-Foto: [SXC](http://www.sxc.hu/photo/492693 "SXC")
-
-\[/aviso\]

@@ -70,6 +70,7 @@ Pero claro, en lugar de tu amigo se lo pides a [Excel](/blog/automatizacion-con-
 
 Si quieres empezar de cero con las fórmulas puedes comenzar por reforzar tu definición sobre lo [que es una fórmula en Excel](/blog/automatizacion-con-excel/que-es-una-formula-en-excel/).
 
+
 ![Fórmulas en Excel](images/que-es-una-formula-en-excel_portada.jpg)
 
 #### [¿ Qué es una fórmula en Excel ?](/blog/automatizacion-con-excel/que-es-una-formula-en-excel/)

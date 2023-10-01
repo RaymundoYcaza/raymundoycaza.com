@@ -1,0 +1,8 @@
+{{ $image := resources.GetMatch (.Get 0) }}
+{{ if $image }}
+    {{ $width := print (.Get 1) "x" }}
+    {{ $resizedImage := $image.Resize $width }}
+    <p><img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Get 2 }}" loading="lazy"></p>
+{{ else }}
+    <p>Error: no se pudo encontrar la imagen.</p>
+{{ end }}

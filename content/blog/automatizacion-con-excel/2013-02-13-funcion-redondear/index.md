@@ -24,7 +24,7 @@ La función REDONDEAR utiliza dos [argumentos](http://raymundoycaza.com/que-son-
 
 La sintaxis de esta función es la siguiente:
 
-[![Función Redondear](images/funcion-redondear-300x47.jpg)](http://raymundoycaza.com/wp-content/uploads/funcion-redondear.jpg)
+[![Función Redondear](images/funcion-redondear.jpg)](images/funcion-redondear.jpg)
 
 ## ¿Para qué me sirve?
 

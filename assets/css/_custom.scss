@@ -3,6 +3,14 @@
     max-width: 12rem;
 }
 
+.ry-content-img {
+  text-align: center;
+}
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
 body[theme="dark"] img.logo {
     content: url(../images/logo-ry-dark.png) !important;
 }
