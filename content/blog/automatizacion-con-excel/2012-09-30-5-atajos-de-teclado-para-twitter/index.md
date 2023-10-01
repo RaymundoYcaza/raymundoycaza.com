@@ -26,41 +26,29 @@ Y ya que muchos de nosotros invertimos una buena parte de nuestro tiempo en esta
 
 Para ahorrarnos el hacer clic en la estrella, podemos simplemente escribir FAV + USUARIO
 
-![5 atajos de teclado para Twitter](images/comando-fav-twitter.png "Comando FAV")
 
-![5 atajos de teclado para Twitter](images/comando-fav-twitter-2.png "Resultado comando FAV")
 
 ### #2 Saber qué fue lo último que dijo una persona (o empresa).
 
 Podemos ahorrarnos los segundos que nos tomaría navegar hasta el perfil de la cuenta objetivo y ver en su línea de tiempo cuál fue el último tuit enviado, con el comando GET + USUARIO
 
-![5 atajos de teclado para Twitter](images/comando-get-twitter.png "Comando GET")
 
-![5 atajos de teclado para Twitter](images/comando-get-twitter-2.png "Resultado comando GET")
 
 ### #3 Consultar las estadísticas de una cuenta.
 
 Para ver un resumen de los datos más relevantes de cualquier cuenta, basta con usar el comando STATS + USUARIO.
 
-![5 atajos de teclado para Twitter](images/comando-stats-twitter.png "Comando STATS")
 
-![5 atajos de teclado para Twitter](images/comando-stats-twitter-2.png "Resultado comando STATS")
 
 ### #4 Averiguar los datos de una cuenta.
 
 Puedes averiguar los datos registrados en Twitter de una cuenta que especifiques con el comando WHOIS + USUARIO
 
-![5 atajos de teclado para Twitter](images/comando-whois-twitter.png "Comando WHOIS")
-
-### ![5 atajos de teclado para Twitter](images/comando-whois-twitter2.png "Comando Whois")
 
 ### #5 Enviar un mensaje directo (mensaje privado).
 
 Si quieres escribirle a alguien sin que medio  mundo se entere, puedes usar el comando D + USUARIO + TU MENSAJE
 
-![5 atajos de teclado para Twitter](images/comando-d-twitter.png "Comando D")
-
-![5 atajos de teclado para Twitter](images/comando-d-twitter2.png "Resultado de comando D")
 
 \[box type="info"\]**Definición de Mensaje Directo (Twitter)**: Un mensaje directo (MD) es un mensaje privado que se envía a través de Twitter a uno de tus seguidores. Solamente puedes enviar un mensaje directo a un usuario que te esté siguiendo; solamente puedes recibir mensajes directos de usuarios a los que sigues.\[/box\]
 
@@ -75,5 +63,3 @@ Si bien es cierto que también podrías usar el equivalente en español para cie
 Si te ha gustado esta entrada, practica lo aprendido y **sígueme en Twitter** para mantenernos en contacto.
 
 Un saludo.
-
-Foto por: [4everyoung](http://www.flickr.com/photos/4everyoung/523272655/ "Flickr")

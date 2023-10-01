@@ -22,7 +22,7 @@ Devuelve el valor absoluto de un número. Esto quiere decir que mostrará el val
 
 La sintaxis de la función ABS es la siguiente:
 
-[![Función ABS](images/funcion-abs-000289-600x192.png)](http://static.raymundoycaza.com/funcion-abs-000289.png)
+[[Función ABS](images/funcion-abs-000289-600x192.png)](http://static.raymundoycaza.com/funcion-abs-000289.png)
 
 ### Ejemplos de uso.
 

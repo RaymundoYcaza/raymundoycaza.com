@@ -22,7 +22,7 @@ Continuemos entonces nuestra conversación y hablemos de cómo está constituida
 
 Un vez que has creado tu [primera Tabla Dinámica](http://raymundoycaza.com/crear-una-tabla-dinamica/), te darás cuenta de que aparecen unos paneles en los que, al parecer, podemos realizar alguna configuración.
 
-[![Tabla Dinámica](images/tabla-dinamica-000301-218x600.png)](http://static.raymundoycaza.com/tabla-dinamica-000301.png)
+[[Tabla Dinámica](images/tabla-dinamica-000301-218x600.png)](http://static.raymundoycaza.com/tabla-dinamica-000301.png)
 
 Estos paneles de los que te hablo (y que puedes ver en la imagen anterior), sirven para que tú puedas construir tu informe arrastrando y soltando las columnas de la tabla. ¡Así de fácil!
 
@@ -68,7 +68,7 @@ Siguiendo el ejemplo del informe de pre-venta, en este panel tendrás que coloca
 
 ## ¡Tu Tabla Dinámica está lista!
 
-[![Tabla Dinámica](images/tabla-dinamica-000302-300x200.png)](http://static.raymundoycaza.com/tabla-dinamica-000302.png)
+[[Tabla Dinámica](images/tabla-dinamica-000302-300x200.png)](http://static.raymundoycaza.com/tabla-dinamica-000302.png)
 
 Si has terminado de asignar los campos a cada panel, según corresponda, entones tu Tabla Dinámica habrá comenzado a trabajar para ti. A partir de ahora, podrás gozar de la flexibilidad que te da un informe de este tipo y poco a poco irás aprendiendo a sacarle más provecho a esta poderosa herramienta.
 

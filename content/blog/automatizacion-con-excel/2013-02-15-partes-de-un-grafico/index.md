@@ -22,7 +22,7 @@ Por eso, sigue leyendo y anímate a seguir aprendiendo paso a paso.
 
 En la siguiente imagen, he marcado las partes generalmente más utilizadas en un gráfico de Excel que tendrás que aprender a identificar y modificar si quieres personalizar tus trabajos:
 
-[![Partes de un Gráfico.](images/partes-de-un-grafico-600x316.jpg)](http://static.raymundoycaza.com/partes-de-un-grafico.jpg)
+[[Partes de un Gráfico.](images/partes-de-un-grafico-600x316.jpg)](http://static.raymundoycaza.com/partes-de-un-grafico.jpg)
 
 ### Área del Gráfico.
 
