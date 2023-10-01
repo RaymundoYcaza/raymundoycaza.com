@@ -24,7 +24,7 @@ En este video, te muestro tres formas sencillas y rápidas de hacerlo.
 
 Con estos consejos, podrás crear el gráfico perfecto en minutos, ahorrarás tiempo y tendrás mejores resultados.
 
-https://youtu.be/n934NjJY-Xc
+{{< youtube n934NjJY-Xc >}}
 
 Si has olvidado cómo crear un gráfico en Excel, este video te ayudará a recordarlo en menos de 3 minutos
 

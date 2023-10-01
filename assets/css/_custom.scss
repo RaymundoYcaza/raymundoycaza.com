@@ -8,6 +8,54 @@ html {
   text-size-adjust: 100%;
 }
 
+div#content {
+  margin-top: 2rem;
+}
+
+//#region rypostPreview
+.post-preview {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+  background-color: aliceblue;
+  border: 1px solid cornflowerblue;
+  margin: 20px 10px;
+}
+
+.post-preview__image {
+  width: 35%; 
+  padding: 10px;
+}
+
+.post-preview__image img {
+  width: 100%;
+  box-shadow: 6px 6px 14px -1px rgba(0,0,0,0.51);
+  -webkit-box-shadow: 6px 6px 14px -1px rgba(0,0,0,0.51);
+  -moz-box-shadow: 6px 6px 14px -1px rgba(0,0,0,0.51);
+}
+
+.post-preview__content {
+  width: 55%;
+  padding: 0px 10px;
+}
+
+@media (max-width: 767px) {
+  .post-preview__image,
+  .post-preview__content {
+    width: 100%;
+  }
+}
+
+
+//#endregion
+
+
+.featured-image img {
+  box-shadow: 7px 6px 5px 0px rgba(0,0,0,0.21);
+  -webkit-box-shadow: 7px 6px 5px 0px rgba(0,0,0,0.21);
+  -moz-box-shadow: 7px 6px 5px 0px rgba(0,0,0,0.21);
+}
+
 .ry-content-img {
   text-align: center;
 }
@@ -31,7 +79,7 @@ ul > li > p > a {
 }
 
 img.logo {
-  content: url(../images/logo-ry.png) !important;
+  // content: url(../images/logo-ry.png) !important;
 }
 
 body[theme="dark"] .fa-solid {
@@ -39,12 +87,30 @@ body[theme="dark"] .fa-solid {
 }
 
 img.ry-footer-logo {
-  content: url(../images/logo-ry-icon.jpg) !important;
+  // content: url(../images/logo-ry-icon.jpg) !important;
+  width: 2.5rem;
+  height: auto;
 }
 
 .home .home-profile .home-avatar img {
   background-color: darkseagreen;
   border: 6px solid #fff;
+}
+
+.home .home-profile .home-avatar img {
+  display: inline-block;
+  width: 18rem;
+  height: 18rem;
+  margin: 0 auto;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  -webkit-box-shadow: 0 0 0 0.3618em rgba(0,0,0,0.05);
+  box-shadow: 0 0 0 0.3618em rgba(0,0,0,0.05);
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
 }
 
 #header-mobile .header-container .menu {

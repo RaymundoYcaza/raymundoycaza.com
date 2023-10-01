@@ -1,0 +1,15 @@
+{{$page := .Site.GetPage (.Get 0)}}
+<section id="articleNext" class="section nartrow">
+    <div class="post-preview">
+        <div class="post-preview__image">
+            {{ with $page.Resources.GetMatch "featured-image" }}
+            {{ $resizedImage := .Resize "400x" }}
+            <img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Title }}">
+            {{ end }}
+        </div>
+        <div class="post-preview__content">
+            <h2><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></h2>
+            <p>{{ $page.Description }}</p>
+        </div>
+    </div>
+</section>

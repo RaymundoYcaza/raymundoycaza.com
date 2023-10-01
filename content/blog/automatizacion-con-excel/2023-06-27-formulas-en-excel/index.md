@@ -36,27 +36,31 @@ Estas instrucciones pueden ser tan simples como operadores aritméticos, de comp
 
 También existen otro tipo de instrucciones que puedes darle a Excel y que pueden realizar tareas más complejas. Estas son las [funciones de Excel](/blog/automatizacion-con-excel/funciones-en-excel/).
 
-![Introducción a la automatización con Excel: ¿Qué son las funciones?](images/img01.jpg)
-
-#### [Introducción a la automatización con Excel: ¿Qué son las funciones?](/blog/automatizacion-con-excel/funciones-en-excel/)
+#### Introducción a la automatización con Excel: ¿Qué son las funciones?
 
 Las funciones en Excel son esenciales para la automatización y se usan para una variedad de operaciones.
 
 Las funciones de Excel se diferencian de los operadores porque son capaces de realizar tareas más complejas, es decir, pueden realizar una serie de tareas que ya están programadas para Resolver problemas que son más complejos.
 
+{{< rypostPreview "/blog/automatizacion-con-excel/2023-03-31-funciones-en-excel" >}}
+
 Además, las funciones de Excel, utilizan [argumentos](/blog/automatizacion-con-excel/argumentos-en-excel/) que debes pasarles para que realicen las operaciones sobre ellos.
 
-![Argumento en Excel](images/argumento-en-excel_portada.jpg)
 
-#### [¿ Qué son los argumentos en Excel ?](/blog/automatizacion-con-excel/argumentos-en-excel/)
+#### ¿Qué son los argumentos en Excel?
 
 ¿Aún no te he explicado qué son los argumentos en Excel?
+
+{{< rypostPreview "/blog/automatizacion-con-excel/2013-02-01-que-son-los-argumentos-en-excel" >}}
 
 Así podrías usar una función como [SUMA](/blog/automatizacion-con-excel/funcion-suma-en-excel/) para sumar 1000 números o una función como [PROMEDIO](/blog/automatizacion-con-excel/funcion-promedio-en-excel/) para obtener el promedio de 100,000 números. Estos números se los pasas como argumento a la función.
 
 Algo así como:
 
-\=SUMAR(A1:A1000)
+```
+=SUMAR(A1:A1000)
+```
+
 
 Donde el argumento es el rango A1:A1000 y es el conjunto de datos que la función SUMA te devolverá sumados.
 
@@ -79,7 +83,6 @@ Si quieres empezar de cero con las fórmulas puedes comenzar por reforzar tu def
 
 Una vez que ya tienes clara la definición de lo que es una fórmula De Excel, tal vez sea conveniente que reafirmes lo que has aprendido hasta el momento analizando las pequeñas [diferencias entre una fórmula de Excel y una función de Excel](/blog/automatizacion-con-excel/formula-de-excel/).
 
-![Fórmulas de Excel y Funciones de Excel](images/formulas-de-excel-funciones-de-excel_portada-150x150.png)
 
 #### [¿Cuál es la diferencia entre una Fórmula de Excel y una Función de Excel?](/blog/automatizacion-con-excel/formula-de-excel/)
 

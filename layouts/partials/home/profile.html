@@ -7,13 +7,13 @@
     {{- if $avatar -}}
         <div class="home-avatar">
             {{- $menus := $.Site.Menus.main | default slice -}}
-            {{- with index $menus 0 -}}
+            {{- with index $menus 2 -}}
                 {{- $url := .URL | relLangURL -}}
                 {{- with .Page -}}
                     {{- $url = .RelPermalink -}}
                 {{- end -}}
-                <a href="{{ $url }}" title="Ver Perfil" rel="noopener noreffer" target="_blank">
-                    {{- dict "Src" $avatar | partial "plugin/img.html" -}}
+                <a href="{{ $url }}" title="Ver Perfil" rel="noopener noreffer" target="_self">
+                    {{- dict "Src" $avatar "Alt" "Ver Más sobre Raymundo Ycaza" | partial "plugin/img.html" -}}
                 </a>
             {{- else -}}
                 {{- dict "Src" $avatar | partial "plugin/img.html" -}}

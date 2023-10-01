@@ -18,3 +18,9 @@ layout: cluster1
 
 [Cómo eliminar los datos antiguos de tu Tabla Dinámica](/blog/automatizacion-con-excel/eliminar-datos-tabla-dinamica/)
 
+
+
+{{< rypostPreview "/blog/automatizacion-con-excel/2013-03-11-tablas-dinamicas-campos-calculados" >}}
+
+{{< rypostPreview "/blog/automatizacion-con-excel/2013-06-19-como-eliminar-los-datos-antiguos-de-tu-tabla-dinamica" >}}
+

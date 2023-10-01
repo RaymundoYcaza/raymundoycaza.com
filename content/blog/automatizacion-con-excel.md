@@ -4,7 +4,10 @@ type: pilar
 layout: pilar1
 date: 2012-06-29
 lastmod: 2023-09-20
+subtitle: "Libera el poder de tu productividad"
 ---
+
+
 Si quieres descubrir cómo automatizar procesos complejos y crear informes precisos de manera rápida y sencilla, este es el lugar perfecto para ti.
 
 {{< columns >}}

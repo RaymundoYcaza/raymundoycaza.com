@@ -52,13 +52,13 @@ languageName = "Spanish"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "images/avatar.png"
+      avatarURL = "images/avatar-ry.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "<span style='color:#fff;'>Descubre cómo la automatización puede transformar tu negocio.</span>"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "<span class='ry-tagline'>Automatización que Transforma</span>"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)

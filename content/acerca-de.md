@@ -2,7 +2,7 @@
 title: "Acerca de Raymundo Ycaza"
 ---
 
-[Curso](../acerca-de-ry.jpg)
+{{< ryimg "images/acerca-de-ry.jpg" 800 "" >}}
 
 ### Sobre Raymundo Ycaza
 
